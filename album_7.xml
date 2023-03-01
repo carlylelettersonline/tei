@@ -1,0 +1,1999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thomas Carlyle Photograph Albums, Album Seven</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Alternative title is Tales of the Sun, 1855</p>
+            <p>Electronic reproduction. New York, N.Y.: Columbia University Libraries, 2018. </p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text id="7">
+     <front>
+        <titlePart type="main">Album Seven</titlePart>
+        <div type="description">
+           <p>“Personal to Alexander Carlyle, T.C.’s nephew. Probably done after T.C’s death.” / this album contains 140 images</p>
+        </div>
+     </front>
+      <body>
+         <head>Thomas Carlyle Photograph Albums, Volume 7</head>
+         <div type="photo" id="0">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Album Cover Page</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000005.jpg"/>
+               <caption>Album cover page, with decoration. </caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Drawing, Calligraphy</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="1">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 1</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000006.jpg"/>
+               <caption>Photograph by Tait, "A Chelsea Interior," cropped to a square; above it a half-sheet of paper with lines in Thomas Carlyle's hand: "Whoso is hungry and list will eat,
+Let him come to Sprodborough to his meat;
+And for a night and for a day
+His horse shall have both corn and hay,
+And no men shall ask him when he goeth away.
+ [Collins V 235.] " Inscription reads, "Brassplate on a Cross in the Highstreet of Sprodborough put up by a Fitzwilliam, pulled down, 1520. Near Doncaster."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Chelsea (London, England)</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="2">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 4</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000009.jpg"/>
+               <caption>Vignette of a woman and young boy holding a violin. </caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="3">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 5</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000010.jpg"/>
+               <caption>Engraving of Goethe holding a sheet of paper, based on the 1828 portrait by Josef Stieler.</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+               </listPerson>
+               <div type="subjects">
+                <p>Goethe, Johann Wolfgang von, 1749-1832</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="4">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 6</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000011.jpg"/>
+               <caption>Four photographs: soldier in Scots uniform with kilt and bagpipe; an officer in uniform; a photograph of a woman, inscribed "Miss Marianne Anderson" and a photograph of a portion of the bar window at the George Hotel, Winchester. </caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+               </listPerson>
+               <div type="subjects">
+                <p>Anderson, Marianne</p>
+                <p>Winchester (England)</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="5">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 7</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000012.jpg"/>
+               <caption>Four photographs in ovals: of an older woman wearing a bonnet, inscribed "Margaret Aitken Carlyle" [Thomas Carlyle’s mother
+in the oft-copied portrait]; an unidentified man, seated with a book; Dr. "John Aitken Carlyle" in vignette and a portait of "Mrs. J.A. Carlyle", formerly Phoebe Elizabeth Hough Watt, in vignette. This is perhaps the only remaining image of J.A. Carlyle. </caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Carlyle, Alexander, 1843-1931, inscriber and compiler.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Carlyle, Margaret Aitken, 1771-1853</p>
+                <p>Carlyle, John Aitken, 1801-1879</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="6">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 8</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000013.jpg"/>
+               <caption>Four photographs in ovals: a man with beard, inscribed "Mr T Woolner"; woman with two boys with caption excised and two photos of the same man, inscribed "Mr J.E. Boehm" and "ditto," in vignette.</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Carlyle, Alexander, 1843-1931, inscriber.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Woolner, Thomas, 1825-1892</p>
+                <p>Boehm, Joseph Edgar, Sir, 1834-1890</p>
+                <p>Carlyle, Phoebe</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="7">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 9</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000014.jpg"/>
+               <caption>Three photographs, with a fourth removed or blank: a photograph of Carlyle in right profile, inscribed "T.C. by Elliot & Fry" and two photographs of Ruskin, inscribed "Mr Ruskin" and "do."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Carlyle, Alexander, 1843-1931, inscriber.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Carlyle, Thomas, 1795-1881</p>
+                <p>Ruskin, John, 1819-1900 </p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="8">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 10</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000015.jpg"/>
+               <caption>Three photographs with a fourth removed or blank: Carlyle in right profile, inscribed "TC by Elliot & Fry"; a photograph of a man inscribed "Father Newman" and a photoreproduction of Luther, inscribed "From Kranach's Luther."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Elliott, Joseph John 1835-1903</persName>
+                  </person>
+                  <person>
+                     <persName>Fry, Clarence Edmund </persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Alexander, 1843-1931, inscriber.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Carlyle, Thomas, 1795-1881</p>
+                <p>Newman, John Henry, 1801-1890</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="9">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 11</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000016.jpg"/>
+               <caption>Four photographs in ovals: of a woman, inscribed "Margaret Aitken"; of an unidentified couple seated with marble urn; and two of women, inscribed "Mrs Paulet" and "Mrs Simmonds / died 31 August 1873."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Carlyle, Alexander, 1843-1931, inscriber.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Aitken, Margaret</p>
+                <p>Martin Luther </p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="10">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 12</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000017.jpg"/>
+               <caption>Three photographs, with one missing: inscription reads "Sally Norton" beneath removed photograph; a photograph of an unidentified woman and two girls; a photograph of Queen Victoria and Princess Beatrice and a photograph of Alexander Carlyle.</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Carlyle, Alexander, 1843-1931, inscriber.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Victoria, Queen of Great Britain, 1819-1901</p>
+                <p>Beatrice, Princess Henry of Battenberg, 1857-1944</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="11">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 13</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000018.jpg"/>
+               <caption>Three photographs in four frames: all young children, all unidentified. </caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="12">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 14</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000019.jpg"/>
+               <caption>Four photographs in frames: a woman seated and reading, inscribed "Miss Ellen Laisne"; a woman seated, inscribed "Mrs Chalmer"; a man standing by a table, inscribed  "Thomas Aird" and of a statue, inscribed "Munro's Statue of Thomas Watt."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Carlyle, Alexander, 1843-1931, inscriber.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Laisne, Ellen </p>
+                <p>Aird, Thomas, 1802-1876</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="13">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 15</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000020.jpg"/>
+               <caption>Four photographs in ovals: an unidentified woman, seated; an unidentified woman, seated; Mrs. Aitken seated; and an older woman seated, with a girl standing with her, inscribed "Mrs Aitken and Mary."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Carlyle, Alexander, 1843-1931, inscriber.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Carlyle, Mary Aitken, 1848-1895</p>
+                <p>Watt, James Henry, 1799-1876</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="14">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 16</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000021.jpg"/>
+               <caption>Four photographs in ovals: a man inscribed "Dickens"; a seated man inscribed "Forster"; a woman in left profile inscrbed "Maggie Sisken" and a seated man, inscribed "R. Osborne."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Carlyle, Alexander, 1843-1931, inscriber.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Dickens, Charles, 1812-1870</p>
+                <p>Forster, John, 1812-1876</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="15">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 17</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000022.jpg"/>
+               <caption>Three photographs in four frames: inscription reads "At Kirkaldy, 1875" [removed]; a photograph of a man, inscribed "Alexandre Dumas"; a photograph of a young girl and dog, inscribed "Mary Aitken and Nith" [?, black dog] and a seated man, inscribed "Mr. Henry Nedham." </caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Carlyle, Alexander, 1843-1931, inscriber.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Dumas, Alexandre, 1802-1870</p>
+                <p>Carlyle, Mary Aitken, 1848-1895</p>
+                <p>Sisken, Maggie </p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="16">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 18</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000023.jpg"/>
+               <caption>Four photographs in frames: three photographs of buildings, oriented horizontally and inscribed "Auchtertool Manse"; "Caerlaverock Castle"; "Caerlaverock Castle" and a close-proximity photograph of a bell, inscribed "Bell presented to the Town of Dumfries by Michael Carlyle of Torthorwald."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Carlyle, Alexander, 1843-1931, inscriber.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Auchtertool (Scotland)</p>
+                <p>Caerlaverock Castle (Scotland) </p>
+                <p>Nedham, Henry </p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="17">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 19</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000024.jpg"/>
+               <caption>Four photographs in ovals: a young girl, inscribed "Sally(?) Norton"; an unidentified man; a man, inscribed "Bismarck" and an unidentified very young child. </caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Carlyle, Alexander, 1843-1931, inscriber.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Nortn, Sally </p>
+                <p>Bismarck, Otto, Furst von, 1815-1898</p>
+                <p>Dumfries (Scotland)</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="18">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 20</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000025.jpg"/>
+               <caption>Two photographs in four frames, with the first two removed: a vignette of an unidentified young boy and a photograph of an unidentified woman with a hat. </caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="19">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 21</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000026.jpg"/>
+               <caption>Three photographs in four frames: a man inscribed "Ruskin"; a boat with captain"H.M.S. Victory, Portsmouth Harbour" and pedestrians on a frozen pond. </caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Carlyle, Alexander, 1843-1931, inscriber.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Ruskin, John, 1819-1900</p>
+                <p>Victory (Man of war)</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="20">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 22</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000027.jpg"/>
+               <caption>Photograph of a seated man, with a book and a hand to his chin, inscribed "Mr J.A. Froude."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Carlyle, Alexander, 1843-1931, inscriber.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Froude, James Anthony, 1818-1894</p>
+                <p>Portsmouth (England)</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="21">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 23</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000028.jpg"/>
+               <caption>Photoreproduction of a portrait of a woman, inscribed "Lady Margaret Carmichael Anstruther / By Richardson."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Richardson</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Alexander, 1843-1931, inscriber.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Anstruther, Margaret Carmichael (1698-1721)</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="22">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 24</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000029.jpg"/>
+               <caption>Photograph of a woman in left profile inscribed "Mrs Anstruther."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Carlyle, Alexander, 1843-1931, inscriber.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="23">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 25</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000030.jpg"/>
+               <caption>Photograph of an unidentified woman in very full white dress with ruffed trim, inscribed "died 1869."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="24">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 27</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000032.jpg"/>
+               <caption>Engraving of a portrait of a man, inscribed "Goldsmith."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Carlyle, Alexander, 1843-1931, inscriber.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Goldsmith, Oliver, 1730?-1774</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="25">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 28</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000033.jpg"/>
+               <caption>Photoreproduction of a portrait of a woman, reclining, inscribed "Mrs Siddons."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Carlyle, Alexander, 1843-1931, inscriber.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Siddons, Sarah, 1755-1831</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="26">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 29</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000034.jpg"/>
+               <caption>Photograph of a man seated at a desk, with a book, inscribed "R.W. Emerson."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Carlyle, Alexander, 1843-1931, inscriber.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Emerson, Ralph Waldo, 1803-1882</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="27">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 30</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000035.jpg"/>
+               <caption>Four photographs in frames: an unidentified man, possibly one of the Kingsleys; a man in left profile, inscribed "Tennyson"; a man seated at a desk, inscribed "R.W. Emerson" and a seated man with a cane, inscribed "Samuel Bamford."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Carlyle, Alexander, 1843-1931, inscriber.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Tennyson, Alfred Tennyson, Baron, 1809-1892</p>
+                <p>Emerson, Ralph Waldo, 1803-1882</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="28">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 31</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000036.jpg"/>
+               <caption>Three photographs in four ovals: a man standing, inscribed "A.C."; a man seated, inscribed "Dass"; [blank]; and a close-up photograph of Professor Syme.</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Carlyle, Alexander, 1843-1931, inscriber.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Carlyle, Alexander, 1843-1931</p>
+                <p>James, Syme, 1799-1870</p>
+                <p>Bamford, Samuel, 1788-1872</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="29">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 32</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000037.jpg"/>
+               <caption>Four photographs of men in ovals, inscribed "Thiers"; "Victor Hugo"; "Guizot" and "Gambetta."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+               </listPerson>
+               <div type="subjects">
+                <p>Thiers, Adolphe, 1797-1877</p>
+                <p>Hugo, Victor, 1802-1885</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="30">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 33</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000038.jpg"/>
+               <caption>Four photographs in frames: a man, inscribed "Peter Taylor"; an unidentified woman in vignette; a seated man, inscribed "Peter Taylor" and an unidentified woman, seated. </caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Carlyle, Alexander, 1843-1931, inscriber.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Peter, Taylor </p>
+                <p>Guizot, Francois, 1787-1874</p>
+                <p>Gambetta, Leon, 1838-1882</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="31">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 34</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000039.jpg"/>
+               <caption>Four photographs in frames: a woman standing with a chair, inscribed "Mrs Russell, Holm Hill", a seated woman in vignette, inscribed "An. Aitken"; a seated Carlyle inscribed "TC by Elliot & Fry" and Jane Welsh Carlyle, seated, inscribed "JWC by Praetorius."</caption>
+               <note>
+                  <date when="Praetorius, photographer">Praetorius, photographer</date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Elliot & Fry, photographers.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Alexander, 1843-1931, inscriber.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Carlyle, Thomas, 1795-1881</p>
+                <p>Carlyle, Jane Welsh, 1801-1866</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="32">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 35</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000040.jpg"/>
+               <caption>Four photographs in ovals: three unidentified children and a photograph of a man seated with a woman standing, inscribed "A. & M.C. 1879."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Carlyle, Alexander, 1843-1931, inscriber.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Carlyle, Alexander, 1843-1931</p>
+                <p>Carlyle, Mary Aitken, 1848-1895</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="33">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 36</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000041.jpg"/>
+               <caption>Four photographs in ovals: all unidentified children, two in sailor suits. </caption>
+               <note>
+                  <date when="1879">1879</date>
+               </note>
+               <listPerson type="creator">
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="34">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 37</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000042.jpg"/>
+               <caption>Four photographs in frames, three of them Allingham children: a young boy, inscribed "Gerald Carlyle Allingham"; a young girl, inscribed "Evey Allingham"; a very young child, inscribed "Henry William Allingham" and an unidentified man, seated in an armchair [inscription illegible].  </caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Carlyle, Alexander, 1843-1931, inscriber.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Allingham, Gerald Carlyle, 1875-1961</p>
+                <p>Allingham, Eve</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="35">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 38</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000043.jpg"/>
+               <caption>Four photographs of men in frames: unidentified, possibly Charles Dickens; unidentified in clerical cassock, possibly Pope Leo XIII; "Fred" [illegible] and "Holman Hunt."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+               </listPerson>
+               <div type="subjects">
+                <p>Leo XIII, Pope, 1810-1903</p>
+                <p>Hunt, William Holman, 1827-1910</p>
+                <p>Allingham, Henry William, 1896-2009</p>
+                <p>Dickens, Charles, 1812-1870</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="36">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 39</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000044.jpg"/>
+               <caption>Four photographs in ovals: a standing man in a Russian sable hat, inscribed "T. Carlyle, Jnr"; an unidentified woman in right profile; an unidentified woman, seated and reading; the same woman with a young girl, seated and reading.</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Elliott, Joseph John, 1835-1903; </persName>
+                  </person>
+                  <person>
+                     <persName>Fry, Clarence Edmund </persName>
+                  </person>
+                  <person>
+                     <persName>London Stereoscopic Company </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Carlyle, Thomas, Jr. </p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="37">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 40</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000045.jpg"/>
+               <caption>Four vignettes in frames of four unidentified children, perhaps siblings. </caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="38">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 41</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000046.jpg"/>
+               <caption>Four photographs in frames: a young girl with staff and carved chair inscribed "Honble Mary Baring"; a woman with an umbrella by a child in a hammock;  a view from above the river and city of "Zurich" and an unidentified street scene of a building.</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Carlyle, Alexander, 1843-1931, inscriber.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Compton, Mary Florence, Marchioness of Northampton, 1860-1902</p>
+                <p>Zurich (Switzerland) </p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="39">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 42</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000047.jpg"/>
+               <caption>Four images in frames: a seated man, inscribed  "J. Grierson"; an unidentified woman seated in left profile and reading; a photoreproduction of a portrait, possibly titled "The Little Drummer" (Frederick and his sister) and an engraving of Dante Alighieri, possibly from a death mask.</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Carlyle, Alexander, 1843-1931, inscriber.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Danti Alighieri, 1265-1321</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="40">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 43</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000048.jpg"/>
+               <caption>Four photographs in ovals: all of unidentified very young children. The last photograph is of two boys in matching coats. </caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="41">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 44</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000049.jpg"/>
+               <caption>Four photographs in ovals: all of very young unidentified children, seated.</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="42">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 45</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000050.jpg"/>
+               <caption>Four photographs in frames: a seated man in a knit fisherman's sweater, holding a staff, and three photographs of young unidentified children. </caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="43">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 46</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000051.jpg"/>
+               <caption>Pen and ink drawing of a young woman, reclining. </caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Drawings</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="44">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 47</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000052.jpg"/>
+               <caption>Pen and ink drawing of a girl seated and reading.</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Drawings</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="45">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 48</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000053.jpg"/>
+               <caption>Pen and ink drawing of a woman seated and reading. </caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Drawings</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="46">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 7, Page 49</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_07%2Fldpd_13015122_000_00000054.jpg"/>
+               <caption>Photograph of a church, inscribed "Old Bonechurch."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Carlyle, Alexander, 1843-1931, inscriber.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternate Title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+        </body>
+     </text>
+   </TEI>
+        

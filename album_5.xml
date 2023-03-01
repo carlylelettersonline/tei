@@ -1,0 +1,1282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thomas Carlyle Photograph Albums, Album Five</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Alternative title is Tales of the Sun, 1855</p>
+            <p>Electronic reproduction. New York, N.Y.: Columbia University Libraries, 2018. </p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text id="5">
+     <front>
+        <titlePart type="main">Album Five</titlePart>
+        <div type="description">
+           <p>An assorted array, many pictures from TC and JWC’s era including material possibly removed from their portrait screens, other portraits and views collected, assembled, and arranged by Alexander Carlyle / this album contains 38 images</p>
+        </div>
+     </front>
+      <body>
+         <head>Thomas Carlyle Photograph Albums, Volume 5</head>
+         <div type="photo" id="0">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 5, Page 1</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_05%2Fldpd_13015115_000_00000007.jpg"/>
+               <caption>A group vignette, inscribed by an unknown hand: "T.C. Hon. Louisa Baring, Lady Ashburton (Louisa) J.W.C. At the Grange abt. 1865." [an unidentified woman, perhaps a nurse, sits behind the group].</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="1">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 5, Page 2</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_05%2Fldpd_13015115_000_00000009.jpg"/>
+               <caption>A pencil and ink drawing, inscribed: "Napoleon at St. Helena..." / "(unknown)" [profile of the Emperor in death].</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Drawings</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="2">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 5, Page 3</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_05%2Fldpd_13015115_000_00000011.jpg"/>
+               <caption>Portrait of Ralph Waldo Emerson, inscribed "Emerson." </caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="3">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 5, Page 4</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_05%2Fldpd_13015115_000_00000013.jpg"/>
+               <caption>Photograph of a house, inscribed "Auchertool Manse Kirkcaldy Mary, Maggie, Walter Welsh."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="4">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 5, Page 5</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_05%2Fldpd_13015115_000_00000015.jpg"/>
+               <caption>Portrait of Ralph Waldo Emerson, inscribed: "Drawn by S.W. Rowse / (entered as to Act of Congress 1858.) / photod by S. Masury."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="5">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 5, Page 6</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_05%2Fldpd_13015115_000_00000017.jpg"/>
+               <caption>Two photographs of a house interior, inscribed: "Cheyne Row: Diningroom. By C. Baly (1881)" and "Reading Chair in Drawingroom. C. Baly (1881)."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>C. Baly</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="6">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 5, Page 7</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_05%2Fldpd_13015115_000_00000019.jpg"/>
+               <caption>Photograph of a street, inscribed: "Thornhill" and a published photograph of The Hotel Gweedore, Co Donegal.</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="7">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 5, Page 8</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_05%2Fldpd_13015115_000_00000021.jpg"/>
+               <caption>A pen and ink drawing of a landscape and castle, inscribed "Drawn by Lady Ashburton" [n.d.]: "Drumlanrig Castle."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Drawings</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="8">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 5, Page 9</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_05%2Fldpd_13015115_000_00000023.jpg"/>
+               <caption>A pen and ink drawing of a young woman, inscribed: "not known."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Drawings</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="9">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 5, Page 10</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_05%2Fldpd_13015115_000_00000025.jpg"/>
+               <caption>Two photographs, one of two women standing and reading together, inscribed: "Hon Blanche Stanley afterwards Lady Airlie & Hon. Maud S." and a photograph of Lady Blanche[?], seated at a writing table.</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="10">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 5, Page 11</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_05%2Fldpd_13015115_000_00000027.jpg"/>
+               <caption>Photograph of a seated man, inscribed: "Thomas Woolner / Sculptor"</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="11">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 5, Page 12</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_05%2Fldpd_13015115_000_00000029.jpg"/>
+               <caption>Partially faded photograph of a woman, inscribed: "Katie Sterling."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="12">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 5, Page 13</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_05%2Fldpd_13015115_000_00000031.jpg"/>
+               <caption>Photoreproduction of engraved illustration of Wilhelm Friedrich of Brandenburg.</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="13">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 5, Page 14</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_05%2Fldpd_13015115_000_00000033.jpg"/>
+               <caption>Photograph of a bust of an unidentified eighteenth-century male figure, resembling Benjamin Franklin.</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="14">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 5, Page 15</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_05%2Fldpd_13015115_000_00000035.jpg"/>
+               <caption>Two photographs: of a house, inscribed "Cressfield House Ecclefechan" [closely resembling the front elevation of Craigenputtoch]; and a published photoengraving of Bunberg, County Donegal.</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="15">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 5, Page 16</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_05%2Fldpd_13015115_000_00000037.jpg"/>
+               <caption>Image of a man with a book, inscribed "From Cranach's Luther."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="16">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 5, Page 17</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_05%2Fldpd_13015115_000_00000039.jpg"/>
+               <caption>Photograph of a statue of a young, female figure inscribed "Gwendoline."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="17">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 5, Page 18</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_05%2Fldpd_13015115_000_00000041.jpg"/>
+               <caption>Two photographs of the interior of a house, inscribed: "Corner of Drawing room, Cheyne Row. By C Baly Summer 1881" and "Back Dining room Cheyne Row (C. Baly) Summer 1881."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>C. Baly</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="18">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 5, Page 19</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_05%2Fldpd_13015115_000_00000045.jpg"/>
+               <caption>Two photographs: of a town, inscribed "Dumfries" and a bridge and river, inscribed "The Nith."</caption>
+               <note>
+                  <date when="1881-00-00">1881-00-00</date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>C. Baly</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="19">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 5, Page 20</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_05%2Fldpd_13015115_000_00000047.jpg"/>
+               <caption>Photographic copy of a painting or engraving, likely Oliver Cromwell.</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="20">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 5, Page 21</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_05%2Fldpd_13015115_000_00000049.jpg"/>
+               <caption>Two photographs of the interior of a house, inscribed: "Chelsea 1881 Drawing Room" and "Drawingroom fireplace &c Cheyne Row / Photo by C. Baly, Summer 1881."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>C. Baly</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="21">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 5, Page 22</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_05%2Fldpd_13015115_000_00000051.jpg"/>
+               <caption>Photograph of a marble or porcelain statue or statuette, inscribed "Ld. R. Gower's Marie Antionette."</caption>
+               <note>
+                  <date when="1881-00-00">1881-00-00</date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>C. Baly</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>[not checked naf] Lord Ronald Gower (1845-1916)</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="22">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 5, Page 23</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_05%2Fldpd_13015115_000_00000055.jpg"/>
+               <caption>Photograph of the garret study at Cheyne Row, most likely taken by Robert Scott Tait in 1857. Inscribed, "Study Chelsea." </caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="23">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 5, Page 24</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_05%2Fldpd_13015115_000_00000057.jpg"/>
+               <caption>Photograph of a river with red border, inscribed "The Nith. 6 Janry 86."</caption>
+               <note>
+                  <date when="1857-00-00">1857-00-00</date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="24">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 5, Page 25</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_05%2Fldpd_13015115_000_00000059.jpg"/>
+               <caption>Photograph of the Carlyle graves in Ecclefechan, with Thomas Carlyle's "Humilitate" stone not yet placed. Inscribed, "J.C.'s grave." </caption>
+               <note>
+                  <date when="1886-01-06">1886-01-06</date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="25">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 5, Page 26</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_05%2Fldpd_13015115_000_00000061.jpg"/>
+               <caption>Photograph of a mill with a river in the foreground, inscribed "Glen Mill / March 1886 / Feb 24."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="26">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 5, Page 27</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_05%2Fldpd_13015115_000_00000062.jpg"/>
+               <caption>Photograph of the interior of a house: a portrait screen in the Carlyle's garret study. There are four panels
+containing, left to right, 18 images, 18 images, 31 images,
+and 22 images, or 89 images in toto.</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="27">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 5, Page 28</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_05%2Fldpd_13015115_000_00000063.jpg"/>
+               <caption>Vignetted photoengraving of a woman, inscribed: "Mentia Taylor."</caption>
+               <note>
+                  <date when="1886-02-24">1886-02-24</date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries, 2018. </p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+        </body>
+     </text>
+   </TEI>
+        

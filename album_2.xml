@@ -1,0 +1,2238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thomas Carlyle Photograph Albums, Album Two</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Alternative title is Tales of the Sun, 1855</p>
+            <p>Electronic reproduction. New York, N.Y.: Columbia University Libraries, 2018. </p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text id="2">
+     <front>
+        <titlePart type="main">Album Two</titlePart>
+        <div type="description">
+           <p>Captioned by TC / “ These things I mark, mournfully, as a kind of duty,—this evg Monday 7 Octr 1867—T.C. ” / this album with its laid-in addenda includes 52 images</p>
+        </div>
+     </front>
+      <body>
+         <head>Thomas Carlyle Photograph Albums, Volume 2</head>
+         <div type="photo" id="0">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 1</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0006.jpg"/>
+               <caption>Photograph of seated Elizabeth Countess of Pepoli, with written inscription reading, "These things I mark, mournfully, as a kind of duty - this evg. Monday 7 Octb. 1867. - T. C." Photograph labeled: "Elizth Countess Pepoli (once Elizth Fergus of Kirkcaldy)."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Pepoli, Elizabeth (d. 1862)</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1867</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="1">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 2</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0008.jpg"/>
+               <caption>Photograph of a standing man; handwritten inscription reads "Thos: Wollner," with the inscription "The Sculptor" added by Carlyle.</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Woolner, Thomas, 1825-1892</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1868</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="2">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 3</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0010.jpg"/>
+               <caption>Photograph of a standing woman, inscription reads "Miss Williams Wynn."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Williams-Wynn, Charlotte, 1807-1869</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1869</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="3">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 4</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0012.jpg"/>
+               <caption>Photograph of "Blanche (Stanley) Countess of Airlie" standing in left profile with cane. Handwritten inscription reads "Blanche (Stanley) Countess of Airlie."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Ogilvy, Henrietta Blanche (Stanley), 1830-1921</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1870</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="4">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 5</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0014.jpg"/>
+               <caption>Photograph of a man seated at desk; inscription reads "Ld Airlie."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Ogilvy, David, Earl of Airlie, 1826-1881</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1871</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="5">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 6</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0016.jpg"/>
+               <caption>Photograph of a seated woman with curtains in background. Inscription reads "Maude Stanley (of Alderley)."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Stanley, Maude, 1833-1915</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1872</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="6">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 7</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0018.jpg"/>
+               <caption>Photograph of a woman standing in partial profile, with a painted natural background. Inscription reads, "Kate Stanley (I think?)"</caption>
+               <note>
+                  <date when="1863">1863</date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Amberley, Katherine Louisa Stanley Russell, viscountess, 1842-1874</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1873</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="7">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 8</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0020.jpg"/>
+               <caption>Photograph of a woman standing in partial profile, with chair. While there is no written inscription, the woman could be one of the Stanleys, potentially Maude (pictured two pages previously in original photo album). </caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Stanley, Maude, 1833-1915</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1874</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="8">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 9</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0022.jpg"/>
+               <caption>Partially faded photograph of a man standing, with a chair. Inscription reads "Hon. Arthur Russell."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Russell, Arthur John Edward, 1825-1892</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1875</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="9">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 10</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0024.jpg"/>
+               <caption>Photograph of a standing woman with a young boy to her left, in front of a hearth and bust. Inscription reads, "Blanche (Stanley) agn [not good]."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Ogilvy, Henrietta Blanche (Stanley), 1830-1921</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1876</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="10">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 11</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0026.jpg"/>
+               <caption>Photograph of a woman kneeling with two dogs, with the dogs on their hind legs. Inscription on the page reads, "Kate Stanley (Lady Amberley [illeg])." Inscription on the photograph, in a different hand, reads  "Kate. Reinecke. Argos." </caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Amberley, Katherine Louisa Stanley Russell, viscountess, 1842-1874</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1877</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="11">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 12</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0028.jpg"/>
+               <caption>Photograph of a man and woman, standing. Inscription reads, "Kate and her Amberley."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Amberley, Katherine Louisa Stanley Russell, viscountess, 1842-1874</p>
+                <p>Amberley, John Russell, viscount,1842-1876</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1878</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="12">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 13</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0030.jpg"/>
+               <caption>Photograph of a woman standing in profile behind a man, seated, in front of a window. Inscription reads, "Rosalind (youngest of the Stanleys) and her Husband the Hon. _____ Howard (Earl of Carlisle that may be)." </caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Howard, Rosalind Frances, Countess of Carlisle, 1845-1921</p>
+                <p>Howard, George James, Earl of Carlisle, 1843-1911</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1879</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="13">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 14</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0032.jpg"/>
+               <caption>Photograph of a man standing by a desk and chair, head in left hand. Inscription reads, "To Jane W. Carlyle / Jos. Mazzini"</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Mazzini, Giuseppe, 1805-1872</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1880</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="14">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 15</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0034.jpg"/>
+               <caption>Photograph of a man standing, with chair. Inscription in a different hand reads, "John George Cooke."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Cooke, John George</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1881</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="15">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 16</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0036.jpg"/>
+               <caption>Photograph of a man standing, in front of a curtain, inscribed in another hand: "Edward C. Sterling." Thomas Carlyle adds "John's eldest son." </caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Sterling, Edward</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1882</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="16">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 17</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0038.jpg"/>
+               <caption>Photograph of a seated woman, holding infant daughter, inscribed "Mrs Symons (nee Miss Barnes--Dr's daughter)."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1883</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="17">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 18</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0040.jpg"/>
+               <caption>Photograph of a woman standing, with hand to her chin. Inscription reads, "Miss Cushman (the Actress)."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Cushman, Charlotte, 1816-1876</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1884</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="18">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 19</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0042.jpg"/>
+               <caption>Photograph of a man, seated with head in left hand. Printed inscription reads: "DR COLENSO LORD BISHOP OF NATAL."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Colenso, John William, 1814-1883</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1885</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="19">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 20</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0044.jpg"/>
+               <caption>Photograph of a man standing, with a chair. Inscription reads, " J A Froude / May I come to tea on Friday?"</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Froude, James Anthony, 1818-1894</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1886</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="20">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 21</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0046.jpg"/>
+               <caption>Photograph of two women reading together, one seated, one kneeling. Inscription reads, "Young Misses Dickens (I think?)" / "[Georgina Hogarth and her niece eldest Miss Dickens.] A.C."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Hogarth, Georgina, 1826-1917</p>
+                <p>Dickens, Mary, 1838-1896</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1887</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="21">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 22</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0048.jpg"/>
+               <caption>Partially faded photograph of a young girl. Inscription reads, "Hon. Mary Baring (Ld A's one child)."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Compton, Mary Florence, Marchioness of Northampton, 1860-1902</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1888</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="22">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 23</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0050.jpg"/>
+               <caption>Photograph of a young girl standing on a box, by a table. Inscrption reads, "Little Mary Baring agn."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Compton, Mary Florence, Marchioness of Northampton, 1860-1902</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1889</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="23">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 24</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0052.jpg"/>
+               <caption>Photograph of a man, seated and reading. Inscription in a different hand reads, "Gerald Blunt" and Thomas Carlyle adds "Blunt, rector of Chelsea."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Blunt, Gerald</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1890</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="24">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 25</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0054.jpg"/>
+               <caption>Photograph of a man, seated with cane. Inscription reads, "Hon. W. [sic] Ellis (called 'Bear Ellis') M.P.&c--very like."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1891</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="25">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 26</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0056.jpg"/>
+               <caption>Photograph of a woman standing, with head in left hand. Inscription reads, "Rosalind Stanley (since Mrs Howard)."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Howard, Rosalind Frances, Countess of Carlisle, 1845-1921</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1892</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="26">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 28</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0058.jpg"/>
+               <caption>Photograph of a woman standing and smiling, with a very young girl held at her shoulder. Inscription reads, "Dowr Lady Ashburton & her little Mary (above)-"</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Ashburton, Louisa, Lady, 1827-1903</p>
+                <p>Compton, Mary Florence, Marchioness of Northampton, 1860-1902</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1893</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="27">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 29</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0060.jpg"/>
+               <caption>Photograph of a man seated, leaning forward. Inscription reads, "John Forster (Man of Letters, &c &c).--very like."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Forster, John, 1812-1876</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1894</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="28">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 30</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0062.jpg"/>
+               <caption>Photograph of a woman standing in left profile, reading a large paper, facing a man seated in right profile. Inscription reads, "Sir Walter Trevellyan, & his (first) wife:--(in Devonshire with us; ah me!)."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Trevelyan, Walter Calverley, Sir, 1797-1879</p>
+                <p>Trevelyan, Pauline, Lady, 1816-1866</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1895</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="29">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 31</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0064.jpg"/>
+               <caption>Photograph of a woman in left profile, inscribed in a different hand: "Alice Hill." Thomas Carlyle adds "Marquess of Downshire's eldest Beauty- ." </caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Hill, Alice Mary, Lady, 1842-?</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1896</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="30">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 32</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0066.jpg"/>
+               <caption>Photograph of a woman standing, eyes downcast. Inscription reads, "Mrs Dilberoglu (English, Sheffield.)"</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1897</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="31">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 33</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0068.jpg"/>
+               <caption>Photograph of a seated man in partial right profile, with a curtain in the background. Inscription reads, "Mr Dilberoglu (Greek, of Chios)"</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Dilberoglu, Stavros</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1898</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="32">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 34</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0070.jpg"/>
+               <caption>Photograph of a man standing, by desk and a small statue. Inscribed in a different hand: "Charles Dickens"; Thomas Carlyle adds "i.e. Charles Dickens"</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Dickens, Charles, 1812-1870</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1899</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="33">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 35</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0072.jpg"/>
+               <caption>Photograph of woman standing, by a desk. Inscription reads, "Miss Davenport Bromley, --like."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1900</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="34">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 36</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0074.jpg"/>
+               <caption>Photograph of a dog, seated on a chair. Inscription reads, "Miss Bromley's Dog 'Spark'." </caption>
+               <note>
+                  <date when="1863">1863</date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1901</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="35">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 37</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0076.jpg"/>
+               <caption>Photograph of a man standing, with cane. Inscription reads, "The Lord Stanley of Alderley."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Stanley, Edward John Stanley, Baron, 1802-1869</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1902</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="36">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 38</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0078.jpg"/>
+               <caption>Photograph of a seated woman, with the inscription "The Lady Stanley of &c."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Stanley, Henrietta Maria Stanley, Baroness, 1807-1805</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1903</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="37">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 39</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0080.jpg"/>
+               <caption>Photograph of a woman seated in a garden, in front of a window. Inscribed in a different hand: "HM Stanley of Alderley"; Thomas Carlyle adds "do / i.e. H.M. Sta - - - / Henrietta Maria." </caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Stanley, Henrietta Maria Stanley, Baroness, 1807-1806</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1904</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="38">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 40</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0082.jpg"/>
+               <caption>Photograph of a woman standing in partial right profile. Inscription reads, "Mrs John Forster."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Forster, Eliza Ann Crosbie, </p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1905</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="39">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 41</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0084.jpg"/>
+               <caption>Photograph of a man standing in partial left profile, with cane. Inscription reads, "Hon.--Byng; called 'Poodle' Byng."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Byng, Frederick Gerald, 1784-1871</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1906</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="40">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 42</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0086.jpg"/>
+               <caption>Photograph of a woman standing, with a hat in hand. Inscription reads, "Mrs Mackenzie (widow, Sister-in-Law of Dowr Lady Ashbn) -."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1907</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="41">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 43</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0088.jpg"/>
+               <caption>Photograph of a seated man, with inscription: "--Story, American Sculptor &c (dilettant par excellence; sings well)--" [William Wetmore Story]</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Story, William Wetmore, 1819-1895</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1908</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="42">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 46</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0090.jpg"/>
+               <caption>Photograph of man standing in partial left profile, with inscription: "Ld George Hill (of Gweedore &c, Marquess of Downshire [illegible])."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Hill, George Augusta, Lord, 1801-1879</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1909</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="43">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 47</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0092.jpg"/>
+               <caption>Photograph of a woman standing in right profile, reading a small book with inscription:" for Mrs Carlyle" in a different hand; Thomas Carlyle adds "Mrs Thos Woolner." </caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Woolner, Alice, 1845-1912</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1910</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="44">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 48</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0094.jpg"/>
+               <caption>Photograph of a man in partial left profile, inscribed in a different hand: "John S. Mill"; Thomas Carlyle adds "(!)"</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p>Mill, John Stuart, 1806-1873</p>
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1911</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+         <div type="photo" id="45">
+            <figure>
+               <head>Carlyle Photograph Albums, Album 2, Page 49</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_02%2Fldpd_13015104_000_0096.jpg"/>
+               <caption>Photograph of a woman, standing in front of a large, ornate mirror and a large urn. Inscription reads, "Madame Elise (I think); a fashionable Dress-maker, whom she thot a real artist, and who valued her approval in a marked manner."</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Tait, Robert Scott, 1816-1897, photographer.</persName>
+                  </person>
+                  <person>
+                     <persName>Jewsbury, Geraldine Endsor, 1812-1880, compiler.</persName>
+                  </person>
+                  <person>
+                     <persName>Carlyle, Thomas, 1795-1881, inscriber. </persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>Photographs</p>
+               </div>
+               <div type="note">
+                  <p>Alternative title: Tales of the Sun, 1912</p>
+               </div>
+               <div type="source">
+                  <p>Original album forms part of the Thomas Carlyle Papers Collection at Columbia University Rare Book and Manuscript Library</p>
+               </div>
+               <div type="digSpec"> 
+                  <p>Electronic reproduction. New York, N.Y. : Columbia University Libraries.</p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p>Captions in English </p>
+               </div>
+               <div type="format">
+                  <p>Still Image, JPEG</p>
+               </div>
+               <div type="publisher">
+                  <p>Victorian Lives and Letters Consortium</p>
+               </div>
+            </figure>
+         </div>
+        </body>
+     </text>
+   </TEI>
+        

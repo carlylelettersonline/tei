@@ -21,7 +21,7 @@
      <front>
         <titlePart type="main">Frontispieces of the Duke-Edinburgh Edition</titlePart>
         <div type="description">
-           <p>This is a special album collecting all of the images from the entire run to date of the Duke-Edinburgh Edition of the Carlyle Letters, including all frontispieces and all internal images.</p>
+           <p>This is a special album collecting all of the frontispieces of the Duke-Edinburgh Edition of the Carlyle Letters.</p>
         </div>
      </front>
       <body>
@@ -30,13 +30,13 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 1</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F01.jpg"/>
-               <caption>Couriers came to the Grass Market from all over Scotland, and the young Carlyle frequently went there to receive or send boxes and letters from or to Ecclefechan. The Grass Market has changed very little from the early nineteenth century to the present day. </caption>
+               <caption>Edinburgh Castle and the Grass Market. Couriers came to the Grass Market from all over Scotland, and the young Carlyle frequently went there to receive or send boxes and letters from or to Ecclefechan. The Grass Market has changed very little from the early nineteenth century to the present day. A print from the calotype negative of <date when="1855">1855</date> by Thomas Keith (<date when="1827">1827</date>&#x02013;<date when="1895">1895</date>) in the Hurd Bequest, Edinburgh Corporation, Library and Museums Committee.</caption>
                <note>
                   <date when="1855">1855</date>
                </note>
                <listPerson type="creator">
                   <person>
-                     <persName>Thomas Keith (1827-1895)</persName>
+                     <persName>Thomas Keith</persName>
                   </person>
                </listPerson>
                <div type="subjects">
@@ -63,7 +63,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -71,7 +71,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 2</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F02.jpg"/>
-               <caption>An early portrait of Jane Baillie Welsh made at Haddington by an unknown artist. </caption>
+               <caption>An early portrait of Jane Baillie Welsh made at Haddington by an unknown artist.</caption>
                <note>
                   <date when="1831">1831</date>
                </note>
@@ -87,7 +87,7 @@
                   <p>Volume 2 Frontispiece</p>
                </div>
                <div type="source">
-                  <p>From the copy in D. A. Wilson, Carlyle, opposite p. 220. The original portrait, which was hanging in Carlyle's house when he died, was handed down in the family of Mrs. Andrew Chrystal, born Jeannie Welsh, Jane's cousin. Francis Jeffrey had the portrait in his possession for some months in 1831, and the Carlyles had difficulty in getting it back from him.</p>
+                  <p>From the copy in D. A. Wilson&#x02019;s <hi rend="italic">Carlyle</hi>, II, opposite p. 220. The original portrait, which was hanging in Carlyle&#x02019;s house when he died, was handed down in the family of Mrs. Andrew Chrystal, born Jeannie Welsh, Jane&#x02019;s cousin. Francis Jeffrey had the portrait in his possession for some months in <date when="1831">1831</date>, and the Carlyles had difficulty getting it back from him.</p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -102,7 +102,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -143,7 +143,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -151,7 +151,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 4</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F04.jpg"/>
-               <caption>Five caricatures of Edward Irving (ca. 1823). Used as the frontispiece of the Trial of Edward Irving, M.A.: A Cento of Criticism (London: E. Brain, 1823).</caption>
+               <caption>Five caricatures of Edward Irving (ca. <date when="1823">1823</date>). Used as the frontispiece of the <hi rend="italic">Trial of Edward Irving, M.A.: A Cento of Criticism</hi> (London: E. Brain, <date when="1823">1823</date>).</caption>
                <note>
                   <date when="1823">1823</date>
                </note>
@@ -182,7 +182,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -190,7 +190,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 5</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F05.jpg"/>
-               <caption>Copy of an engraving of the Carlyles' home at Craigenputtoch. </caption>
+               <caption>Copy of an engraving of the Carlyles&#x02019; home at Craigenputtoch. </caption>
                <note>
                   <date when=""></date>
                </note>
@@ -220,7 +220,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -228,9 +228,9 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 6</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F06.jpg"/>
-               <caption>Silhouettes of Carlyle's father and mother made by Jane Welsh Carlyle with captions in Carlyle's hand, and of Carlyle himself made by Robert Blake from two profile photographs taken in the years shortly before he grew his beard in 1854. The silhouettes of the father and the mother are reproduced from the volume I frontispiece of J. A. Froude, ed., Reminiscences by Thomas Carlyle (London, 1881).</caption>
+               <caption>Silhouettes of Carlyle&#x02019;s father and mother made by Jane Welsh Carlyle with captions in Carlyle&#x02019;s hand, and of Carlyle himself made by Robert Blake from two profile photographs taken in the years shortly before he grew his beard in <date when="1854">1854</date>.</caption>
                <note>
-                  <date when="1854; 1881">1854; 1881</date>
+                  <date when="1854">1854; 1881</date>
                </note>
                <listPerson type="creator">
                   <person>
@@ -251,7 +251,7 @@
                   <p>Volume 6 Frontispiece</p>
                </div>
                <div type="source">
-                  <p>The silhouettes of the father and the mother are reproduced from the volume I frontispiece of J. A. Froude, ed., Reminiscences by Thomas Carlyle (London, 1881).</p>
+                  <p>The silhouettes of the father and the mother are reproduced from the volume I frontispiece of J. A. Froude, ed., <hi rend="italic">Reminiscences</hi> by Thomas Carlyle (London, <date when="1881">1881</date>).</p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -266,7 +266,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -274,7 +274,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 7</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F07.jpg"/>
-               <caption>Photograph of Scotsbrig, near Ecclefechan, home of Carlyle's father and mother from 1826 until their deaths in 1832 and 1853 respectively, and of his youngest brother, James, and his family from 1826 until his death in 1890. Photograph by J. Patrick, courtesy of the University of Edinburgh.</caption>
+               <caption>Scotsbrig, near Ecclefechan, home of Carlyle&#x02019;s father and mother from <date when="1826">1826</date> until their deaths in <date when="1832">1832</date> and <date when="1853">1853</date> respectively, and of his youngest brother, James, and his family from <date when="1826">1826</date> until his death in <date when="1890">1890</date>.</caption>
                <note>
                   <date when=""></date>
                </note>
@@ -307,7 +307,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -315,7 +315,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 8</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F08.jpg"/>
-               <caption>Crayon portrait of Thomas Carlyle by Samuel Laurence, circa 1838. Bought from the artist by John Sterling and greatly admired by him. The original is now at the Carlyle House, Chelsea.</caption>
+               <caption>Crayon portrait of Thomas Carlyle by Samuel Laurence, circa <date when="1838">1838</date>. Bought from the artist by John Sterling and greatly admired by him.</caption>
                <note>
                   <date when="1838">1838</date>
                </note>
@@ -349,7 +349,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -357,9 +357,9 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 9</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F09.jpg"/>
-               <caption>Chalk portrait of Jane Welsh Carlyle by Samuel Laurence, circa 1838 [1849]. From the original at the Carlyle House, Chelsea.</caption>
+               <caption>Chalk portrait of Jane Welsh Carlyle by Samuel Laurence, circa <date when="1838">1838</date> [<date when="1849">1849</date>]. From the original at the Carlyle House, Chelsea.</caption>
                <note>
-                  <date when="1838">1838</date>
+                  <date when="1838">1849</date>
                </note>
                <listPerson type="creator">
                   <person>
@@ -373,10 +373,10 @@
                   <p>Chalk portrait </p>
                </div>
                <div type="note">
-                  <p>Volume 9 Frontispiece</p>
+                  <p>Volume 9 Frontispiece, where misdated <date when="1838">1838</date></p>
                </div>
                <div type="source">
-                  <p>The original portrait is now at the Carlyle House, Chelsea.</p>
+                  <p>The original portrait is now at the Carlyle House, Chelsea. It was commissioned by Anthony Sterling and came to the House via one of his granddaughters. See </p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -391,7 +391,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -399,7 +399,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 10</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F10.jpg"/>
-               <caption>Oil portrait of Thomas Carlyle by Samuel Laurence, 1838. The original is privately owned; reproduced by kind permission of the owner.</caption>
+               <caption>Oil portrait of Thomas Carlyle by Samuel Laurence, <date when="1838">1838</date>.</caption>
                <note>
                   <date when="1838">1838</date>
                </note>
@@ -433,7 +433,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -441,7 +441,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 11</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F11.jpg"/>
-               <caption>Lithograph by R. J. Lane, after a drawing by Count Alfred D'Orsay, 1839. The lithograph is reproduced from the copy in the National Portrait Gallery, London. The whereabouts of the original drawing is unknown.</caption>
+               <caption>Lithograph by R. J. Lane, after a drawing by Count Alfred D'Orsay, <date when="1839">1839</date>.</caption>
                <note>
                   <date when="1839">1839</date>
                </note>
@@ -478,7 +478,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -486,7 +486,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 12</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F12.jpg"/>
-               <caption>Two photographs; above: Scotsbrig, home of Carlyle's brother James and their mother, ca. 1890, below: Cheyne Row, with bystanders outside number five, ca. 1890. Photographs by J. Patrick, reproduced by permission of the Edinburgh Carlyle Society.</caption>
+               <caption>Two photographs; <hi rend="italic">above</hi>: Scotsbrig, home of Carlyle&#x02019;s brother James and their mother, ca. <date when="1890">1890</date>; <hi rend="italic">below</hi>: Cheyne Row, with bystanders outside number five, ca. <date when="1890">1890</date>.</caption>
                <note>
                   <date when="1890">1890</date>
                </note>
@@ -519,7 +519,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -527,7 +527,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 13</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F13.jpg"/>
-               <caption>Detail of a portrait of Margaret A. Carlyle painted by Maxwell of Dumfries, 1842, Carlyle's House, Chelsea. Reproduced by permission of The National Trust for Places of Historic Interest or Natural Beauty, London.</caption>
+               <caption>Detail of a portrait of Margaret A. Carlyle painted by Maxwell of Dumfries, <date when="1842">1842</date>, Carlyle&#x02019;s House, Chelsea.</caption>
                <note>
                   <date when="1842">1842</date>
                </note>
@@ -561,7 +561,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -599,7 +599,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -637,7 +637,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -645,7 +645,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 16</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F16.jpg"/>
-               <caption>Oil portrait of Thomas Carlyle by John Linnell, 1843. Courtesy of the National Gallery of Scotland.</caption>
+               <caption>Oil portrait of Thomas Carlyle by John Linnell, <date when="1843">1843</date>.</caption>
                <note>
                   <date when="1843">1843</date>
                </note>
@@ -679,7 +679,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -687,7 +687,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 17</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F17.jpg"/>
-               <caption>Oil portrait of Jane Welsh Carlyle by Spiridione Gambardella, 1843. Privately owned.</caption>
+               <caption>Oil portrait of Jane Welsh Carlyle by Spiridione Gambardella, <date when="1843">1843</date>.</caption>
                <note>
                   <date when="1843">1843</date>
                </note>
@@ -706,7 +706,7 @@
                   <p>Volume 17 Frontispiece</p>
                </div>
                <div type="source">
-                  <p>Original is privately owned.</p>
+                  <p>The original is privately owned.</p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -721,7 +721,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -729,7 +729,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 18</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F18.jpg"/>
-               <caption>Oil portrait of Jeannie Welsh (later Chrystal) by Spiridione Gambardella, 1843. Privately owned.</caption>
+               <caption>Oil portrait of Jeannie Welsh (later Chrystal) by Spiridione Gambardella, <date when="1843">1843</date>.</caption>
                <note>
                   <date when="1843">1843</date>
                </note>
@@ -748,7 +748,7 @@
                   <p>Volume 18 Frontispiece</p>
                </div>
                <div type="source">
-                  <p>Original is privately owned.</p>
+                  <p>The original is privately owned.</p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -763,17 +763,17 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
          <div type="photo" id="18">
             <figure>
-               <head>Duke-Edinburgh Edition, Frontispiece, Volume 19</head>
+               <head>Duke-Edinburgh Edition, Frontispiece, Volume 19, where misdated <date when="1854">1854</date></head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F19.jpg"/>
-               <caption>Oil portrait of John Welsh of Liverpool by Spiridione Gambardella, 1854 [1843]. Privately owned.</caption>
+               <caption>Oil portrait of John Welsh of Liverpool by Spiridione Gambardella, <date when="1854">1854</date> [<date when="1843">1843</date>]. Privately owned.</caption>
                <note>
-                  <date when="1854">1854</date>
+                  <date when="1843">1843</date>
                </note>
                <listPerson type="creator">
                   <person>
@@ -790,7 +790,7 @@
                   <p>Volume 19 Frontispiece</p>
                </div>
                <div type="source">
-                  <p>Original is privately owned.</p>
+                  <p>The original is privately owned.</p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -805,7 +805,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -813,7 +813,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 20</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F20.jpg"/>
-               <caption>Daguerreotype of Thomas Carlyle, April 1846, mailed to Ralph Waldo Emerson, 30 April 1846. Reproduced by permission of the Ralph Waldo Emerson Memorial Association and the Houghton Library, Harvard University.</caption>
+               <caption>Daguerreotype of Thomas Carlyle, <date when="1846-04">April 1846</date>, mailed to Ralph Waldo Emerson, <date when="1846-04-30">30 April 1846</date>.</caption>
                <note>
                   <date when="1846">1846</date>
                </note>
@@ -844,7 +844,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -852,13 +852,13 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 21</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F21.jpg"/>
-               <caption>Oil portrait of Lady Harriet Baring by H. W. Pickersgill, R.A. </caption>
+               <caption>Oil portrait of Lady Harriet Baring by H. W. Pickersgill, R.A.</caption>
                <note>
                   <date when=""></date>
                </note>
                <listPerson type="creator">
                   <person>
-                     <persName>H. W. Pickersgill, R.A</persName>
+                     <persName>H. W. Pickersgill</persName>
                   </person>
                </listPerson>
                <div type="subjects">
@@ -871,7 +871,7 @@
                   <p>Volume 21 Frontispiece</p>
                </div>
                <div type="source">
-                  <p>Present whereabouts of original unknown.</p>
+                  <p>Present whereabouts of the original is unknown.</p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -886,7 +886,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -894,7 +894,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 22</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F22.jpg"/>
-               <caption>Lithograph of Giuseppe Mazzini in the 1840s. Courtesy of the National Portrait Gallery, London.</caption>
+               <caption>Lithograph of Giuseppe Mazzini in the <date from="1840" to="1849">1840s</date>.</caption>
                <note>
                   <date when="1840s">1840s</date>
                </note>
@@ -925,7 +925,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -933,7 +933,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 23</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F23.jpg"/>
-               <caption>Daguerreotype of Ralph Waldo Emerson, London, 1848. By permission of the Houghton Library, Harvard University, bMS Am 1280.235 (706.3A).</caption>
+               <caption>Daguerreotype of Ralph Waldo Emerson, London, <date when="1848">1848</date>.</caption>
                <note>
                   <date when="1848">1848</date>
                </note>
@@ -964,7 +964,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -972,7 +972,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 24</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F24.jpg"/>
-               <caption>Photograph of Thomas Carlyle, 1849 [after 1854]. Reproduced from Sir Charles Gavan Duffy, Conversations with Carlyle (1896).</caption>
+               <caption>Photograph of Thomas Carlyle, <date when="1849">1849</date>.</caption>
                <note>
                   <date when="1849">1849</date>
                </note>
@@ -987,7 +987,7 @@
                   <p>Volume 24 Frontispiece</p>
                </div>
                <div type="source">
-                  <p>Reproduced from Sir Charles Gavan Duffy, Conversations with Carlyle (1896).</p>
+                  <p>Reproduced from Sir Charles Gavan Duffy, <hi rend="italic">Conversations with Carlyle</hi> (<date when="1896">1896</date>).</p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -1002,7 +1002,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -1010,7 +1010,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 25</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F25.jpg"/>
-               <caption>Jane Welsh Carlyle engraved by J. J. Waddington, Ltd., from an original in water colors and crayon by Carl Hartmann in 1849. Reproduced from Mrs. Brookfield and Her Circle.</caption>
+               <caption>Jane Welsh Carlyle engraved by J. J. Waddington, Ltd., from an original in water colors and crayon by Carl Hartmann in <date when="1849">1849</date>.</caption>
                <note>
                   <date when="1849">1849</date>
                </note>
@@ -1032,7 +1032,7 @@
                   <p>Volume 25 Frontispiece</p>
                </div>
                <div type="source">
-                  <p>Reproduced from Mrs. Brookfield and Her Circle.</p>
+                  <p>Reproduced from <hi rend="italic">Mrs. Brookfield and Her Circle</hi> (<date when="1905">1905</date>).</p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -1047,7 +1047,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -1055,7 +1055,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 26</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F26.jpg"/>
-               <caption>Medallion of Thomas Carlyle by Thomas Woolner, 1850. Courtesy of the National Galleries of Scotland.</caption>
+               <caption>Medallion of Thomas Carlyle by Thomas Woolner, <date when="1850">1850</date>.</caption>
                <note>
                   <date when="1850">1850</date>
                </note>
@@ -1089,7 +1089,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -1097,7 +1097,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 27</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F27.jpg"/>
-               <caption>Photograph of Thomas Carlyle by Robert Scott Tait, 31 July 1854. Courtesy of Columbia University Library.</caption>
+               <caption>Photograph of Thomas Carlyle by Robert Scott Tait, <date when="1854-07-31">31 July 1854</date>.</caption>
                <note>
                   <date when="1854">1854</date>
                </note>
@@ -1116,7 +1116,7 @@
                   <p>Volume 27 Frontispiece</p>
                </div>
                <div type="source">
-                  <p>Courtesy of Columbia University Library.</p>
+                  <p><hi rend="italic">Courtesy of Columbia University Library.</hi></p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -1131,7 +1131,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -1139,7 +1139,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 28</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F28.jpg"/>
-               <caption>Jane Carlyle with the family dog Nero, photographed by Robert Scott Tait, ca. 1853. Courtesy of the National Portrait Gallery, London.</caption>
+               <caption>Jane Carlyle with Nero, photographed by Robert Scott Tait, ca. <date rend="1853">1853</date>.</caption>
                <note>
                   <date when="1853">1853</date>
                </note>
@@ -1158,7 +1158,7 @@
                   <p>Volume 28 Frontispiece</p>
                </div>
                <div type="source">
-                  <p>Courtesy of the National Portrait Gallery, London.</p>
+                  <p><hi rend="italic">Courtesy of the National Portrait Gallery, London.</hi></p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -1173,7 +1173,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -1181,7 +1181,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 29</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F29.jpg"/>
-               <caption>Jane Welsh Carlyle and Geraldine Jewsbury by Robert Scott Tait, April 1855. Courtesy of Columbia University and Edinburgh University Libraries.</caption>
+               <caption>Jane Welsh Carlyle and Geraldine Jewsbury by Robert Scott Tait, <date when="1855-04">April 1855</date>.</caption>
                <note>
                   <date when="1855">1855</date>
                </note>
@@ -1201,7 +1201,7 @@
                   <p>Volume 29 Frontispiece</p>
                </div>
                <div type="source">
-                  <p>Courtesy of Columbia University and Edinburgh University Libraries.</p>
+                  <p><hi rend="italic">Courtesy of Columbia University and Edinburgh University Libraries.</hi></p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -1216,7 +1216,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -1224,7 +1224,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 30</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F30.jpg"/>
-               <caption>Photograph of The Grange, Hampshire, 1972. Reproduced by permission of English Heritage. NMR.</caption>
+               <caption>Photograph of The Grange, Hampshire (1972).</caption>
                <note>
                   <date when="1972">1972</date>
                </note>
@@ -1239,7 +1239,7 @@
                   <p>Volume 30 Frontispiece</p>
                </div>
                <div type="source">
-                  <p>Reproduced by permission of English Heritage. NMR.</p>
+                  <p><hi rend="italic">Reproduced by permission of English Heritage. NMR.</hi></p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -1254,7 +1254,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -1262,7 +1262,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 31</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F31.jpg"/>
-               <caption>Jane Welsh Carlyle in the downstairs drawing room, 5 Cheyne Row. Watercolor by Frank Jewsbury, 1856. Privately owned; see also Carlyle Newsletter 7 (Spring 1986): 2.</caption>
+               <caption>Jane Welsh Carlyle in the downstairs drawing room, 5 Cheyne Row. Watercolor by Frank Jewsbury, <date when="1856">1856</date>.</caption>
                <note>
                   <date when="1856">1856</date>
                </note>
@@ -1281,7 +1281,7 @@
                   <p>Volume 31 Frontispiece</p>
                </div>
                <div type="source">
-                  <p>Privately owned; see also Carlyle Newsletter 7 (Spring 1986): 2.</p>
+                  <p>Privately owned; see also <hi rend="italic">Carlyle Newsletter</hi> 7 (Spring <date when="1986">1986</date>): 2.</p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -1296,7 +1296,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -1304,7 +1304,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 32</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F32.jpg"/>
-               <caption>Thomas Carlyle in the attic, 5 Cheyne Row, by Robert Scott Tait, 27 July 1857. Courtesy of Edinburgh University Library.</caption>
+               <caption>Thomas Carlyle in the attic, 5 Cheyne Row, by Robert Scott Tait, <date when="1857-07-27">27 July 1857</date>.</caption>
                <note>
                   <date when="1857">1857</date>
                </note>
@@ -1323,7 +1323,7 @@
                   <p>Volume 32 Frontispiece</p>
                </div>
                <div type="source">
-                  <p>Courtesy of Edinburgh University Library.</p>
+                  <p><hi rend="italic">Courtesy of Edinburgh University Library.</hi></p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -1338,7 +1338,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -1346,7 +1346,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 33</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F33.jpg"/>
-               <caption>Thomas Carlyle and the family dog Nero at the back door, 5 Cheyne Row, by Robert Scott Tait, 29 July 1857. Courtesy of Edinburgh University Library</caption>
+               <caption>Thomas Carlyle and Nero at the back door, 5 Cheyne Row, by Robert Scott Tait, <date when="1857-07-29">29 July 1857</date>.</caption>
                <note>
                   <date when="1857">1857</date>
                </note>
@@ -1365,7 +1365,7 @@
                   <p>Volume 33 Frontispiece</p>
                </div>
                <div type="source">
-                  <p>Courtesy of Edinburgh University Library.</p>
+                  <p><hi rend="italic">Courtesy of Edinburgh University Library.</hi></p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -1380,7 +1380,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -1388,11 +1388,14 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 34</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F34.jpg"/>
-               <caption>Map of Dumfries </caption>
+               <caption>Map of Dumfriesshire (Craigenputtoch to Annan).</caption>
                <note>
                   <date when=""></date>
                </note>
                <listPerson type="creator">
+                  <person>
+                     <persName>Janice Christianson and Liz Sutherland</persName>
+                  </person>
                </listPerson>
                <div type="subjects">
                </div>
@@ -1418,7 +1421,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -1426,7 +1429,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 35</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F35.jpg"/>
-               <caption>Sharp, Greenwood, and Fowler, Map of Fife, 1828 (detail). Courtesy of the National Library of Scotland</caption>
+               <caption>Sharp, Greenwood, and Fowler, Map of Fife, <date when="1828">1828</date> (detail).</caption>
                <note>
                   <date when="1828">1828</date>
                </note>
@@ -1441,7 +1444,7 @@
                   <p>Volume 35 Frontispiece</p>
                </div>
                <div type="source">
-                  <p>Courtesy of the National Library of Scotland</p>
+                  <p><hi rend="italic">Courtesy of the National Library of Scotland.</hi></p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -1456,7 +1459,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -1464,7 +1467,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 36</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F36.jpg"/>
-               <caption>"Thomas Carlyle on a midnight ramble"; by Charles Bell Birch, 1859. Courtesy of the National Portrait Gallery</caption>
+               <caption>&#x0201C;Thomas Carlyle on a midnight ramble&#x0201D;; by Charles Bell Birch, <date when="1859">1859</date>.</caption>
                <note>
                   <date when="1859">1859</date>
                </note>
@@ -1483,7 +1486,7 @@
                   <p>Volume 36 Frontispiece</p>
                </div>
                <div type="source">
-                  <p>Courtesy of the National Portrait Gallery</p>
+                  <p><hi rend="italic">Courtesy of the National Portrait Gallery.</hi></p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -1498,7 +1501,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -1506,7 +1509,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 37</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F37.jpg"/>
-               <caption>Letter from Jane Welsh Carlyle to Mary Baring, 31 January 1861. Courtesy of the National Library of Scotland</caption>
+               <caption>Jane Welsh Carlyle to Mary Baring, <date when="1861-01-31">31 January 1861</date>.</caption>
                <note>
                   <date when="1861">1861</date>
                </note>
@@ -1524,7 +1527,7 @@
                   <p>Volume 37 Frontispiece</p>
                </div>
                <div type="source">
-                  <p>Courtesy of the National Library of Scotland</p>
+                  <p><hi rend="italic">Courtesy of the National Library of Scotland.</hi></p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -1539,7 +1542,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -1547,7 +1550,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 38</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F38.jpg"/>
-               <caption>Photograph of Thomas Carlyle, by William Jeffrey, September 1862. Courtesy of The National Trust</caption>
+               <caption>Thomas Carlyle, by William Jeffrey, <date when="1862-09">September 1862</date>.</caption>
                <note>
                   <date when="1862">1862</date>
                </note>
@@ -1566,7 +1569,7 @@
                   <p>Volume 38 Frontispiece</p>
                </div>
                <div type="source">
-                  <p>Courtesy of The National Trust</p>
+                  <p><hi rend="italic">Courtesy of The National Trust.</hi></p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -1581,7 +1584,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -1589,7 +1592,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 39</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F39.jpg"/>
-               <caption>Photograph of Auchtertool Manse, 1863. Courtesy of Rare Book and Manuscript Library, Columbia University</caption>
+               <caption>Auchtertool Manse, <date when="1863">1863</date>.</caption>
                <note>
                   <date when="1863">1863</date>
                </note>
@@ -1604,7 +1607,7 @@
                   <p>Volume 39 Frontispiece</p>
                </div>
                <div type="source">
-                  <p>Courtesy of Rare Book and Manuscript Library, Columbia University</p>
+                  <p><hi rend="italic">Courtesy of Rare Book and Manuscript Library, Columbia University.</hi></p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -1619,7 +1622,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -1627,7 +1630,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 40</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F40.jpg"/>
-               <caption>Thomas Carlyle to Messrs. Hutchison & Co., 8 August 1864. Courtesy of the National Library of Scotland</caption>
+               <caption>Thomas Carlyle to Messrs. Hutchison &#x00026; Co., <date when="1864-08-08">8 August 1864</date>.</caption>
                <note>
                   <date when="1864">1864</date>
                </note>
@@ -1645,7 +1648,7 @@
                   <p>Volume 40 Frontispiece</p>
                </div>
                <div type="source">
-                  <p>Courtesy of the National Library of Scotland</p>
+                  <p><hi rend="italic">Courtesy of the National Library of Scotland.</hi></p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -1660,7 +1663,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -1668,7 +1671,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 41</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F41.jpg"/>
-               <caption>Photograph of Lady Airlie, by Camille Silvy, 1860. Courtesy of Rare Book and Manuscript Library, Columbia University</caption>
+               <caption>Lady Airlie, by Camille Silvy, <date when="1860">1860</date>.</caption>
                <note>
                   <date when="1860">1860</date>
                </note>
@@ -1687,7 +1690,7 @@
                   <p>Volume 41 Frontispiece</p>
                </div>
                <div type="source">
-                  <p>Courtesy of Rare Book and Manuscript Library, Columbia University</p>
+                  <p><hi rend="italic">Courtesy of Rare Book and Manuscript Library, Columbia University.</hi></p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -1702,7 +1705,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -1710,7 +1713,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 42</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F42.jpg"/>
-               <caption>Engraving of Thomas Carlyle, around 1865.</caption>
+               <caption>Thomas Carlyle, engraving by Joseph Brown, signed &#x0201C;Thomas Carlyle (Chelsea, <date when="1865">1865</date>).&#x0201D;</caption>
                <note>
                   <date when="1865">1865</date>
                </note>
@@ -1726,7 +1729,7 @@
                   <p>Volume 42 Frontispiece</p>
                </div>
                <div type="source">
-                  <p></p>
+                  <p>From a photograph by Elliott &#x00026; Fry, [<date when="1865-04">April 1865</date>].</p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -1741,7 +1744,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -1749,9 +1752,10 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 43</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F43.jpg"/>
-               <caption>Photograph of Jane Welsh Carlyle, with Thomas Carlyle's hand, "my own Jane (a distorted [illeg.])." </caption>
+               <caption>Jane Welsh Carlyle, [1865].
+                 </caption>
                <note>
-                  <date when=""></date>
+                  <date when="1865">[1865]</date>
                </note>
                <listPerson type="creator">
                   <person>
@@ -1768,7 +1772,8 @@
                   <p>Volume 43 Frontispiece</p>
                </div>
                <div type="source">
-                  <p></p>
+                  <p> <hi rend="italic">Courtesy of Rare Book and Manuscript Library, Columbia University.</hi><lb/>
+                     Annotated in Thomas Carlyle&#x02019;s hand: &#x0201C;My own Jane (a distorted likeness).&#x0201D;</p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -1783,7 +1788,7 @@
                   <p>Still Image, Online</p>
                </div>
                <div type="publisher">
-                  <p>Victorian Lives and Letters Consortium</p>
+                  <p>Duke University Press</p>
                </div>
             </figure>
          </div>
@@ -1791,7 +1796,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 44</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F44.jpg"/>
-               <caption>Jane Welsh Carlyle, by Robert Scott Tait, April 1855 / © National Portrait Gallery, London</caption>
+               <caption>Jane Welsh Carlyle, by Robert Scott Tait, <date when="1855-04">April 1855</date>.</caption>
                <note>
                   <date when=""></date>
                </note>
@@ -1806,7 +1811,7 @@
                   <p></p>
                </div>
                <div type="source">
-                  <p></p>
+                  <p>&#xa9; <hi rend="italic">National Portrait Gallery, London</hi></p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -1829,7 +1834,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 45</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F45.jpg"/>
-               <caption>Thomas Carlyle, unfinished portrait by G. F. Watts, 1868 / © Ashmolean Museum, University of Oxford</caption>
+               <caption>Thomas Carlyle, unfinished portrait by G. F. Watts, <date when="1868">1868</date>.</caption>
                <note>
                   <date when=""></date>
                </note>
@@ -1844,7 +1849,7 @@
                   <p></p>
                </div>
                <div type="source">
-                  <p></p>
+                  <p>&#xa9; <hi rend="italic">Ashmolean Museum, University of Oxford.</hi></p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -1867,7 +1872,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 46</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F46.jpg"/>
-               <caption>Jane Welsh Carlyle, undated photograph / Thomas Carlyle Papers, 1865–1896, Rare Book & Manuscript Library, Columbia University, New York</caption>
+               <caption>Jane Welsh Carlyle, undated photograph.</caption>
                <note>
                   <date when=""></date>
                </note>
@@ -1882,7 +1887,7 @@
                   <p></p>
                </div>
                <div type="source">
-                  <p></p>
+                  <p><hi rend="italic">Thomas Carlyle Papers, <date when="1865">1865</date>&#x02013;<date when="1896">1896</date>, Rare Book &#x00026; Manuscript Library, Columbia University.</hi></p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -1905,7 +1910,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 47</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F47.jpg"/>
-               <caption></caption>
+               <caption>&#x0201C;Thomas Carlyle (&#x02018;Men of the Day No. 12.&#x02019;),&#x0201D; chromolithograph by Carlo Pellegrini, <hi rend="italic">Vanity Fair</hi>, <date when="1870-10-22">22 October 1870</date>.</caption>
                <note>
                   <date when=""></date>
                </note>
@@ -1924,7 +1929,7 @@
                   <p></p>
                </div>
                <div type="source">
-                  <p></p>
+                  <p>&#xa9; <hi rend="italic">National Portrait Gallery, London.</hi></p>
                </div>
                <div type="digSpec"> 
                   <p></p>
@@ -1947,7 +1952,7 @@
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 48</head>
                <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F48.jpg"/>
-               <caption></caption>
+               <caption>Thomas Carlyle and Ralph Forbes, Ralph Waldo Emerson&#x02019;s grandson, <date when="1872-04-24">24 April 1872</date>.</caption>
                <note>
                   <date when=""></date>
                </note>
@@ -1966,7 +1971,7 @@
                   <p></p>
                </div>
                <div type="source">
-                  <p></p>
+                  <p>&#xa9; <hi rend="italic">National Portrait Gallery, London.</p>
                </div>
                <div type="digSpec"> 
                   <p></p>

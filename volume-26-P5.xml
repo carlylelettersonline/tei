@@ -3794,7 +3794,7 @@ unpbd. Conjecturally dated by the visit to Alderley, TC&#x2019;s fairly recent r
 </docAuthor>
 <person type="sender">TC</person>
 <person type="addressee">SYDNEY DOBELL</person>
-</bibl><sourceNote>TC-SD, <date when="1851-10-17">17 Oct.</date> Pbd: E. Jolly, <hi rend="italic">Life and Letters of Sydney Dobell</hi> (<date when="1878">1878</date>) 1:235&#x2013;56.</sourceNote><head>
+</bibl><sourceNote>TC-SD, <date when="1851-10-17">17 Oct.</date> MS: Armstrong Browning, inc. ABL holds only the last p. of the MS. Pbd: E. Jolly, <hi rend="italic">Life and Letters of Sydney Dobell</hi> (<date when="1878">1878</date>) 1:235&#x2013;56. </sourceNote><head>
 <person type="sender">TC</person> TO <person type="addressee">SYDNEY DOBELL</person></head><docBody>
 <dateline>
 <place>Chelsea</place>: <date when="1851-10-17">October 17, 1851</date>.
@@ -4453,6 +4453,33 @@ The review has been wrongly ascribed to Thackeray, but <hi rend="italic">The Tra
 <name>T. Carlyle</name>
 <ps><p>Alas, it won&#x2019;t <hi rend="italic">hold</hi> Varnhagen:<note n="2" place="bottom" type="gloss" >I.e., Varnhagen&#x2019;s letter.</note>&#x2014;<foreign><hi rend="italic">n&#x2019;importe</hi></foreign> [no matter].</p></ps>
 </docBody></div3>
+  
+  <div3 type="letter"><bibl xml:id="lt-18511130-TC-AWH-01">
+    
+    <docDate value="1851-11-30">30 November 1851</docDate>
+    <idno type="firstpage">44-228</idno>
+    <idno type="lastpage">44-229</idno>
+    <docAuthor>
+      <name type="first">Thomas</name>
+      <name type="last">Carlyle</name>
+    </docAuthor>
+    <person type="sender">TC</person>
+    <person type="addressee">ADAM WHITE</person></bibl>
+    
+    <sourceNote>TC-AWH, <date when="1851-11-30">30 Nov. 1851</date>. MS: EUL. Hitherto unpbd. Adam White (<date when="1817">1817</date>&#x02013;<date when="1878">78</date>; <ref target="volume-26/http://www.oxforddnb.com/view/article/29234"><hi rend="italic">ODNB</hi></ref>), naturalist and author; assistant in the zoological branch of the dept. of natural history at the British Museum. This letter, originally pbd. at <hi rend="italic">CL</hi> 44:228&#x02013;29, has been placed in its proper chronological location, preceding <ref target="volume-26/lt-18511130-TC-EHA-01">TC to EHA, <date when="1851-11-30">30 Nov. 1851</date></ref>.<!-- ; see <xref doc="volume-26" from=" lt-18511130-TC-EHA-01"><sic>26:245</sic></xref> --></sourceNote>
+    
+    <head>
+      <person type="sender">TC</person> TO <person type="addressee">ADAM WHITE</person>
+    </head>
+    <docBody>
+      <dateline><place>Chelsea</place>, <date when="1851-11-30">30 Nov<hi rend="italic">r</hi>, 1851</date>&#x02014;</dateline>
+      <salute>Dear Sir,</salute>
+      <p>I am much afraid you will get little light out of me in reference to this scheme of yours: but, for the sake of the Introduction<note n="1"  place="bottom" type="gloss">TC had received a request to meet Adam White (see <ref doc="volume-26" from="lt-18511130-TC-EHA-01"><sic>26:245</sic><corr>TC to EHA, <date when="1851-11-30">30 Nov. 1851</date></corr></ref>) from Elizabeth Hamilton, b. Martin (<date when="1799">1799</date>&#x02013;<date when="1859">1859</date>), recent winow of William Hamilton (d. <date when="1851">1851</date>), old friend of TC&#x02019;s. White&#x02019;s &#x0201C;scheme&#x0201D; is unidentified.</note> you carry, were there no other consideration, I am very willing to meet you as desired.</p>
+      <p>I generally leave home for walking, about 3 p.m.; and you do not seem to be at liberty till 4. Our best plan therefore will be, that you come to the London Library (12. St James&#x02019;s Square) on Tuesday, at a quarter past 4, and there ask for me: I shall endeavour to be in waiting for you at that time; and we can <pb id="pg-44-229" n="44:229"/>adjourn for half an hour, into the Parks,<note n="2"  place="bottom" type="gloss">St. James&#x02019;s Park and Green Park, both near the London Lib.</note> and there peripatetically deliberate on what you have to propose.</p>
+      <closer><salute>Believe me / Yours very truly</salute> T. Carlyle</closer>
+      <postscript><p>Adam White Esq&gt;</p></postscript>
+    </docBody>
+  </div3>
 
 <div3 type="letter"><bibl xml:id="lt-18511130-TC-EHA-01">
 <docDate value="1851-11-30">30 November 1851</docDate>
@@ -4465,7 +4492,8 @@ The review has been wrongly ascribed to Thackeray, but <hi rend="italic">The Tra
 <person type="sender">TC</person>
 <person type="addressee">ELIZABETH HAMILTON</person>
 </bibl><sourceNote>TC-EH [EHA], <date when="1851-11-30">30 Nov.</date> Addr: 15. Wob<supplied>[urn S]</supplied>quare MS: EUL.
-Hitherto unpbd.</sourceNote><head>
+Hitherto unpbd.</sourceNote>
+  <head>
 <person type="sender">TC</person> TO <person type="addressee">ELIZABETH HAMILTON</person></head><docBody>
 <dateline>
 <place>Chelsea</place>, <date when="1851-11-30">30 Nov<hi rend="italic">r</hi>, 1851</date>&#x2014;</dateline>
@@ -4475,6 +4503,8 @@ Hitherto unpbd.</sourceNote><head>
 <p>I hope to get as far as Woburn Square, and see you again, before very long, in spite of all my confused impediments; and I bid you believe me always, Dear Mrs Hamilton</p>
 <closer><salute>Your old and sincere friend /</salute></closer> <name>T. Carlyle</name>
 </docBody></div3>
+  
+  
 
 <div3 type="letter"><bibl xml:id="lt-18511202-JWC-TC-01">
 <docDate value="1851-12-02">2 December 1851</docDate>

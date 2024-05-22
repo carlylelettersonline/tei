@@ -2032,6 +2032,48 @@
                </div>
             </figure>
          </div>
+         <div type="photo" id="49">
+            <figure>
+               <head>Duke-Edinburgh Edition, Frontispiece, Volume 50</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F50.jpg"/>
+               <caption>Thomas Carlyle by Praetortius<br /> © National Portrait Gallery, London</caption>
+               <note>
+                  <date when=""></date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName></persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+                <p></p>
+               </div>
+               <div type="mediaType">
+                  <p></p>
+               </div>
+               <div type="note">
+                  <p></p>
+               </div>
+               <div type="source">
+                  <p></p>
+               </div>
+               <div type="digSpec"> 
+                  <p></p>
+               </div>
+               <div type="rights">
+                  <p></p>
+               </div>
+               <div type="langNote">
+                  <p></p>
+               </div>
+               <div type="format">
+                  <p></p>
+               </div>
+               <div type="publisher">
+                  <p></p>
+               </div>
+            </figure>
+         </div>
         </body>
      </text>
    </TEI>

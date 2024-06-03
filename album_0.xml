@@ -26,6 +26,47 @@
      </front>
       <body>
          <head>Thomas Carlyle Photograph Albums, Volume 0</head>
+         <div type="photo" id="00">
+            <figure>
+               <head>Duke-Edinburgh Edition, Frontispiece, Volume 1</head>
+               <graphic url="https://iiif.dh.tamu.edu/iiif/2/CLO%2Falbum_00%2F01.jpg"/>
+               <caption>Edinburgh Castle and the Grass Market. Couriers came to the Grass Market from all over Scotland, and the young Carlyle frequently went there to receive or send boxes and letters from or to Ecclefechan. The Grass Market has changed very little from the early nineteenth century to the present day. A print from the calotype negative of <date when="1855">1855</date> by Thomas Keith (<date when="1827">1827</date>&#x02013;<date when="1895">1895</date>) in the Hurd Bequest, Edinburgh Corporation, Library and Museums Committee.</caption>
+               <note>
+                  <date when="1855">1855</date>
+               </note>
+               <listPerson type="creator">
+                  <person>
+                     <persName>Thomas Keith</persName>
+                  </person>
+               </listPerson>
+               <div type="subjects">
+               </div>
+               <div type="mediaType">
+                  <p>A print from the calotype negative  </p>
+               </div>
+               <div type="note">
+                  <p>Volume 1 Frontispiece: Edinburgh Castle and the Grass Market</p>
+               </div>
+               <div type="source">
+                  <p>Negative is in the Hurd Bequest, Edinburgh Corporation, Library and Museums Committee</p>
+               </div>
+               <div type="digSpec"> 
+                  <p></p>
+               </div>
+               <div type="rights">
+                  <p>Public Domain; no known copyright.</p>
+               </div>
+               <div type="langNote">
+                  <p></p>
+               </div>
+               <div type="format">
+                  <p>Still Image, Online</p>
+               </div>
+               <div type="publisher">
+                  <p>Duke University Press</p>
+               </div>
+            </figure>
+         </div>
          <div type="photo" id="0">
             <figure>
                <head>Duke-Edinburgh Edition, Frontispiece, Volume 1</head>

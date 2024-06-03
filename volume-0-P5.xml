@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>THE COLLECTED LETTERS OF<lb/>
+                    THOMAS AND JANE WELSH CARLYLE</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>DUKE UNIVERSITY PRESS</publisher>
+                <address>
+                    <addrLine>DURHAM AND LONDON</addrLine>
+                </address>
+                <date when="2023">2023</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl><hi rend="italic">The Collected Letters of Thomas and Jane Welsh Carlyle</hi> receives funding from the
+                    Scholarly Editions program of the National Endowment for the Humanities.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>This document is part of the Carlyle Letters Online project at Duke University Press. All rights reserved.</p>
+            </projectDesc>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2020">2023</date>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:id="volume-0">
+        <front>
+            <titlePage>
+                <docTitle>
+                    <titlePart>
+                        <title><pb id="pg-48-iii" n="48:iii"/>THE COLLECTED LETTERS OF<lb/>
+                            THOMAS AND JANE WELSH CARLYLE</title>
+                    </titlePart>
+                </docTitle>
+                <docEdition>
+                    <biblFull>
+                        <titleStmt>
+                            <title>THE COLLECTED LETTERS OF<lb/>
+                                THOMAS AND JANE WELSH CARLYLE</title>
+                        </titleStmt>
+                        <editionStmt><edition>DUKE-EDINBURGH EDITION</edition>
+                            <respStmt>
+                                
+                                <name>BRENT KINSER</name>
+                                <orgName><hi rend="italic">Western Carolina University</hi></orgName>
+                                
+                                <name>DAVID SORENSEN</name>
+                                <orgName><hi rend="italic">Saint Joseph&#x02019;s University</hi></orgName>
+                                
+                                <name>JANE ROBERTS</name>
+                                <orgName><hi rend="italic">University of Edinburgh</hi></orgName>
+                                
+                                <name>LIZ SUTHERLAND</name>
+                                <orgName><hi rend="italic">University of Edinburgh</hi></orgName>
+                            </respStmt>
+                        </editionStmt>
+                        
+                        <publicationStmt>
+                            <p>UNDATED LETTERS</p>
+                            <p><date when="nd">Undated Letters</date></p>
+                            <p>DUKE UNIVERSITY PRESS</p>
+                            <p>DURHAM AND LONDON</p>
+                            <p><date when="2023">2023</date></p>
+                        </publicationStmt>
+                    </biblFull>
+                </docEdition>
+                <docImprint>
+                </docImprint>
+            </titlePage>
+
+<div1 type="section" id="ed-01-acknowledgements">
+<head><title><pb id="firstpage-01-v" n="01:v"/>INTRODUCTION</title></head>
+<p>This is a mockup of an introduction to the undated letters.</p>
+</div1> 
+
+<div3 type="letter">
+<bibl n="001" xml:id="lt-nd-TC-LA-01">
+    <docDate type="undated" notAfter="1855">Undated</docDate>
+    <idno type="firstline">&#x0201C;I am not to get to Addiscombe on Sunday&#x0201D;</idno>
+    <idno type="recipient">Ashburton, Harriet Lady</idno>
+    <correspAction type="received">Ashburton, Harriet Lady</correspAction>
+    <docAuthor>
+        <name type="first">Thomas</name>
+        <name type="last">Carlyle</name>
+    </docAuthor>
+    <correspAction type="received">
+        <name type="first">Harriet Lady</name> 
+        <name type="last">Ashburton</name>
+    </correspAction>>
+    
+    <person type="sender">TC</person>
+    <person type="addressee">HARRIET LADY ASHBURTON</person>
+</bibl>
+
+    <sourceNote>TC-LA, <date when="undated" notAfter="1855">n.d.</date> MS: NLS Acc. 11388. Hitherto unpbd. Dated not after <date when="1855">1855</date> because of TC&#x02019;s mention of dinner with Samuel Rogers (<date when="1763">1763</date>&#x02013;<date when="1855">1855</date>; <ref target="undated-letters/http://www.oxforddnb.com/view/article/23997"><hi rend="italic">ODNB</hi></ref>)</sourceNote>
+<head>
+    <person type="sender">TC</person> TO <person type="addressee">HARRIET LADY ASHBURTON</person>
+</head>
+<docBody>
+    <dateline><place>Chelsea</place>,&#x02014; Friday</dateline>
+    <p>I am not to get to Addiscombe on Sunday; the amount of my sins is too heavy. I meditated a great feat for Sunday: coming out to <hi rend="italic">breakfast</hi> with you, by speed and early rising:&#x02014;but alas while we sat at dinner yesterday, old Rogers arrived,<note n="1">Samuel Rogers. TC means JWC, since Rogers was unmarried.</note> like an assassinating Old Man of the Mountain;&#x02014;assassinated this fair scheme: Breakfast with him, wife and I &#x00026;c &#x00026;c Ach Gott!</p>
+    <p>Take care of your cold, <hi rend="italic">liebe Freundin</hi>; yes do, and don&#x02019;t come back ill again,&#x02014;I do not like that at all. And may the Divinities and Supreme Destinies of this world ever bless you.</p>
+    <closer><salute>Ewig.<note n="2">Ger. for &#x0201C;Dear friend&#x0201D; and &#x0201C;Eternally.&#x0201D;</note></salute>
+        <signed><name>T. C.</name></signed></closer>
+</docBody>
+</div3>
+            
+<div3 type="letter">
+<bibl n="002" xml:id="lt-nd-TC-LA-02">
+    <docDate type="undated">Undated</docDate>
+    <idno type="firstline">&#x0201C;Yes, my Lady; I am making ready to <hi rend="italic">accompany</hi>&#x0201D;</idno>
+    <docAuthor>
+       <name type="first">Thomas</name>
+       <name type="last">Carlyle</name>
+    </docAuthor>
+    <correspAction type="received">
+       <name type="first">Harriet Lady</name> 
+       <name type="last">Ashburton</name>
+    </correspAction>>
+    
+    <person type="sender">TC</person>
+    <person type="addressee">HARRIET LADY ASHBURTON</person>
+</bibl>
+
+<sourceNote>TC-LA, <date when="undated">n.d.</date> MS: NLS Acc. 11388. Hitherto unpbd.</sourceNote>
+<head>
+    <person type="sender">TC</person> TO <person type="addressee">HARRIET LADY ASHBURTON</person>
+</head>
+    <docBody>
+        <dateline><place>Chelsea</place>, Tuesday, <time when-iso="14:00">2 p.m.</time></dateline>
+    <p>Yes, my Lady; I am making ready to accompany, this afternoon&#x02014;lest I don&#x02019;t see you again at all!</p>
+        <p>Shall expect you to pick me up at <time when-iso="16:30:00">4&#x000BD; p.m.</time></p>
+       <closer><salute>In huge haste</salute>
+          <signed><name>T. C.</name></signed></closer>
+
+    </docBody>
+</div3>
+        
+<div3 type="letter">
+    <bibl n="003" xml:id="lt-nd-TC-LA-03">
+        <docDate type="undated">Undated</docDate>
+        <idno type="firstline">&#x0201C;The enclosed lay written since morning&#x0201D;</idno>
+        <docAuthor>
+            <name type="first">Thomas</name>
+            <name type="last">Carlyle</name>
+        </docAuthor>
+        <correspAction type="received">
+            <name type="first">Harriet Lady</name>
+            <name type="last">Ashburton</name>
+        </correspAction>>
+                    
+        <person type="sender">TC</person>
+        <person type="addressee">HARRIET LADY ASHBURTON</person>
+    </bibl>
+    
+    <sourceNote>TC-LA, <date when="undated">n.d.</date> MS: NLS Acc. 11388. Hitherto unpbd.</sourceNote>
+    <head>
+        <person type="sender">TC</person> TO <person type="addressee">HARRIET LADY ASHBURTON</person>
+    </head>
+    <docBody>
+        <dateline><place>Chelsea</place>, Friday night</dateline>
+        <p>The enclosed lay written since morning; but had not gone when your letter came. Am not I in luck? God, we are told, sends eat, and means of various kinds; but it is another Party that furnishes the Cooks! Let us not complain of anything.</p>
+        <p>There is bright lightning in the sky; there are brave days coming. I am very weary; in much haste,&#x02014;accomplishing nothing. I send you my prayers if they availed aught. <closer><salute>Good night, and peace be with you always.</salute></closer></p>
+       <closer><signed><name>T. C.</name></signed></closer>
+   </docBody>
+</div3>
+            
+<div3 type="letter">
+    <bibl n="004" xml:id="lt-nd-TC-LA-04">
+        <docDate type="undated">Undated</docDate>
+        <idno type="firstline">&#x0201C;<hi rend="italic">Ma Dame&#x02014;Mille Graces!</hi>&#x0201D;</idno>
+        <docAuthor>
+            <name type="first">Thomas</name>
+            <name type="last">Carlyle</name>
+        </docAuthor>
+        <correspAction type="received">
+            <name type="first">Harriet Lady</name>
+            <name type="last">Ashburton</name>
+        </correspAction>>
+                    
+        <person type="sender">TC</person>
+        <person type="addressee">HARRIET LADY ASHBURTON</person>
+    </bibl>
+                
+    <sourceNote>TC-LA, <date when="undated">n.d.</date> MS: NLS Acc. 11388. Hitherto unpbd.</sourceNote>
+    <head>
+        <person type="sender">TC</person> TO <person type="addressee">HARRIET LADY ASHBURTON</person>
+    </head>
+    <docBody>
+        <dateline><place>Chelsea</place>, Wednesday night</dateline>
+        <p><hi rend="italic">Ma Dame&#x02014;Mille Graces! Sie sind sch&#x000F6;n und edel</hi>.<note n="1">&#x0201C;My Lady&#x02014;a Thousand Blessings&#x0201D; (Fr.). &#x0201C;You are beautiful and noble&#x0201D; (Ger.).</note> You make a bright hour wherever you come;&#x02014;and not even Useful Knowledge and Orson the Cousin of Valentine<note n="2">Perhaps an allusion to the committee of the Society for the Diffusion of Useful Knowledge, on which served their mutual friend Charles Hay Cameron (<date when="1795">1795</date>&#x02013;<date when="1880">1880</date>; <ref target="undated-letters/http://www.oxforddnb.com/view/article/4437"><hi rend="italic">ODNB</hi></ref>), jurist. Characters from a Carolingian cycle romance about two brothers abandoned as children in the woods. Valentine is raised as a knight and Orson is raised in the den of a bear. Later, Valentine defeats and tames Orson. See <ref target="volume-06/lt-18311220-TC-JAC-01">TC to JAC, <date when="1831-12-20">20 Dec. 1831</date></ref>.</note> can withstand you! The Cat is very happy.&#x02014;</p>
+        <p>I will see you again, if it please Heaven, before long,&#x02014;Sunday or some day. I have corrected my Proof-sheet; and end this day well.</p>
+        <closer><salute>I am yours to serve you evermore</salute>
+            <signed><name>T. C.</name></signed></closer>
+    </docBody>
+</div3>
+            
+<div3 type="letter">
+    <bibl n="005" xml:id="lt-nd-TC-LA-05">
+        <docDate type="undated">Undated</docDate>
+        <idno type="firstline">&#x0201C;I will call tomorrow about <time when-iso="16:00:00">four o&#x02014;clock</time>&#x0201D;</idno>
+        <docAuthor>
+            <name type="first">Thomas</name>
+            <name type="last">Carlyle</name>
+        </docAuthor>
+        <correspAction type="received">
+            <name type="first">Harriet Lady</name>
+            <name type="last">Ashburton</name>
+        </correspAction>>
+                    
+        <person type="sender">TC</person>
+        <person type="addressee">HARRIET LADY ASHBURTON</person>
+    </bibl>
+                
+    <sourceNote>TC-LA, <date when="undated">n.d.</date> MS: NLS Acc. 11388. Hitherto unpbd. The clarity of TC&#x02019;s handwriting suggests the letter is written to Harriet Lady Ashburton, but Louisa Lady Ashburton is also a possible recipient.</sourceNote>
+    <head>
+        <person type="sender">TC</person> TO <person type="addressee">HARRIET LADY ASHBURTON</person>
+    </head>
+    <docBody>
+       <p>I will call tomorrow about <time when-iso="16:00:00">four o&#x02019;clock</time>; today I have missed it,&#x02014;unhappy that I am! Pity me, be friendly to me, in your noble heart; her Majesty has no such subject as I,&#x02014;in several unexpected respects, I do believe. God help us;&#x02014;and <closer><salute>bless you ever, Lady dear, befall what may!</salute></closer></p>
+        <closer><signed><name>T. C.</name></signed></closer>
+        <ps>Thursday (<hi rend="italic">not</hi> <time when-iso="15:00:00">3</time> but <time when-iso="16:00:00">4 p.m.</time><lb/>
+        (that is my mistake today)</ps>
+    </docBody>
+</div3>
+            
+<div3 type="letter">
+    <bibl n="006" xml:id="lt-nd-TC-LLA-01">
+        <docDate type="undated">Undated</docDate>
+        <idno type="firstline">&#x0201C;You are the Queen of Women!&#x0201D;</idno>
+        <docAuthor>
+            <name type="first">Thomas</name>
+            <name type="last">Carlyle</name>
+        </docAuthor>
+        <correspAction type="received">
+            <name type="first">Louisa Lady</name>
+            <name type="last">Ashburton</name>
+        </correspAction>>
+                    
+        <person type="sender">TC</person>
+        <person type="addressee">LOUISA LADY ASHBURTON</person>
+    </bibl>
+    
+    <sourceNote>TC-LLA, <date when="undated">n.d.</date> MS: NLS Acc. 11388. Hitherto unpbd. K. J. Fielding acquired the copy of the text used here from Virginia Surtees and sent it to the Duke Letters Office in <date when="1981-10">October 1981</date>. On the typescript an editor posits &#x0201C;<date when="--11">November</date>?&#x0201D;</sourceNote>
+    <head>
+        <person type="sender">TC</person> TO <person type="addressee">HARRIET LADY ASHBURTON</person>
+    </head>
+    <docBody>
+        <p>You are the Queen of Women! Magnanimous, patient, gentle, brave and beautiful, beyond the Daughters of Eve. Oh, if I could fly away into Heaven with you,&#x02014;would I!&#x02014; The thought of you gilds all darknesses in my existence; makes wretched London fog itself into clouds of red and gold. <closer><salute>Thanks, thanks, dear one.</salute></closer></p>
+        <closer><signed><name>T. C.</name></signed></closer>
+        <ps>Saturday (an hour after you are gone).</ps>
+    </docBody>
+</div3>
+            
+<div3 type="letter">
+    <bibl n="007" xml:id="lt-nd-TC-LLA-02">
+        <docDate type="undated">Undated</docDate>
+        <idno type="firstline">&#x0201C;If this is right, seal it and present it according to your benevolent intention&#x0201D;</idno>
+        <docAuthor>
+            <name type="first">Thomas</name>
+            <name type="last">Carlyle</name>
+        </docAuthor>
+        <correspAction type="received">
+            <name type="first">Louisa Lady</name>
+            <name type="last">Ashburton</name>
+        </correspAction>>
+                    
+        <person type="sender">TC</person>
+        <person type="addressee">LOUISA LADY ASHBURTON</person>
+    </bibl>
+    
+    <sourceNote>TC-LLA, <date when="undated">n.d.</date> MS: NLS Acc. 11388. Hitherto unpbd.</sourceNote>
+    <head>
+        <person type="sender">TC</person> TO <person type="addressee">HARRIET LADY ASHBURTON</person>
+    </head>
+    <docBody>
+        <dateline><place>Chelsea</place>, Monday&#x02014;</dateline>
+        <p>If this is right, seal it and present it according to your benevolent intention,&#x02014;and let us pray for a blessing on it.&#x02014;I am near blind (so bilious &#x00026;c &#x00026;c) and have spent the whole morning, screwing out this wretched thing: it is very evident I shall never become eminent in the Diplomatic line, but must seek my promotion in some other,&#x02014;out of this world, I believe at last!</p>
+        <p>I shall see you Saturday evening, from the distance: there is no chance of a Tea that will suit me again, till after your return from Paris?<note n="1">Harriet Lady Ashburton traveled to Paris in <date when="1851">1851</date> on <date when="1851-09-10">10 September</date> (see <ref target="volume-26/lt-18510822-JWC-KS-01">JWC to KS, [<date when="1851-08-22">22 Aug. 1851</date>]</ref>, and <ref target="volume-26/lt-18510910-TC-JWC-01">TC to JWC, <date when="1851-09-10">10 Sept. 1851</date></ref>), but this is not the correct trip because TC was in Scotland when she left for Paris in <date when="1851">1851</date>.</note> None, I suppose. That, as matters go, is almost my best resource; and Heaven knows it is not a very grand one.&#x02014; Well, well!</p>
+        <p>There are some things beyond the reach of Tantalus and Zeus,<note n="2">While in Olympus at the invitation of Zeus, Tantalus stole ambrosia, the sacred food of the gods, and committed other crimes, for which he was sent to Tartarus, an abyss created to torment the wicked.</note>&#x02014;and be hanged to both of them!</p>
+        <closer><salute>I will remain always (according to appearance)<lb/>
+        Your noble Ladyship’s obedient</salute>
+        <signed><name>T. C.</name></signed></closer>
+       
+    </docBody>
+</div3>
+
+<div3 type="letter">
+<bibl n="008" xml:id="lt-nd-TC-AAH-01">
+    <docDate type="undated">Undated</docDate>
+    <idno type="firstline">&#x0201C;What is the use of collecting Autographs?&#x0201D;</idno>
+    <docAuthor>
+        <name type="first">Thomas</name>
+        <name type="last">Carlyle</name>
+    </docAuthor>
+    <correspAction type="received">
+        <name type="first">An</name>
+        <name type="last">Autograph Hunter</name>
+    </correspAction>>
+    
+    <person type="sender">TC</person>
+    <person type="addressee">AN AUTOGRAPH HUNTER</person>
+</bibl>
+
+    <sourceNote>TC-LLA, <date when="undated">n.d.</date> MS: Sold at Sotheby’s, <date when="1986-05-27">27 May 1986</date>. The description and quote are from the catalog entry. </sourceNote>
+<head>
+    <person type="sender">TC</person> TO <person type="addressee">AN AUTOGRAPH HUNTER</person>
+</head>
+<docBody>
+    <p>Autograph sentiment for an autograph hunter: &#x0201C;What is the use of collecting Autographs? Endeavour to collect knowledge, wisdom and modest courage.&#x0201D; On a slip, c.4 by 5 inches. S <date when="--05-27">May 27</date> (230) &#x000A3;130 [Maggs]</p>
+</docBody>
+</div3>
+
+<div3 type="letter">
+<bibl n="009" xml:id="lt-nd-TC-WHB-01">
+    <docDate type="undated">Undated</docDate>
+        <idno type="firstline">&#x0201C;I was nearly killed last night&#x0201D;</idno>
+    <docAuthor>
+        <name type="first">Thomas</name>
+        <name type="last">Carlyle</name>
+    </docAuthor>
+    <correspAction type="received">
+        <name type="first">W. H.</name>
+        <name type="last">Brookfield</name>
+    </correspAction>>
+            
+    <person type="sender">TC</person>
+    <person type="addressee">W. H. Brookfield</person>
+</bibl>
+        
+   <sourceNote>TC-WHB, <date when="undated">n.d.</date> MS: Gordon N. Ray. Hitherto unpbd.</sourceNote>
+        <head>
+            <person type="sender">TC</person> TO <person type="addressee">W. H. Brookfield</person>
+        </head>
+<docBody>
+    <p>Dear Brookfield,&#x02014; I was nearly killed last night: if I dine <hi rend="italic">again</hi> without pause&#x02014; Good Heavens!</p>
+    <p>Well, if I possibly can or dare, I will nevertheless;&#x02014;and unless you hear something from me about <time when-iso="16:00:00">4 p.m.</time>, expect me, you sinful being!</p>
+        <closer><signed><name>T. Carlyle</name></signed></closer>
+    <ps>Chelsea, Monday Morning</ps>
+            
+        </docBody>
+    </div3>
+
+<div3 type="letter">
+    <bibl n="010" xml:id="lt-nd-TC-TC-01">
+        <docDate type="undated">Undated</docDate>
+        <idno type="firstline">&#x0201C;<hi rend="italic">Euge</hi>! Same style of thing as the former&#x0201D;</idno>
+        <docAuthor>
+            <name type="first">Thomas</name>
+            <name type="last">Carlyle</name>
+        </docAuthor>
+        <correspAction type="received">
+            <name type="first">Thomas</name>
+            <name type="last">Carlyle</name>
+        </correspAction>>
+            
+        <person type="sender">TC</person>
+        <person type="addressee">THOMAS CARLYLE</person>
+    </bibl>
+        
+    <sourceNote>TC-TC, <date when="undated">n.d.</date> MS: Representative Church Body Library, Dublin; RCB Library MS 253/2/16. Received by Hilary Smith from Raymond Refauss&#x000E9;, Librarian and archivist at the RCBL. TC&#x02019;s note to himself may be referring to Henry Austin Bruce (<date when="1815">1815</date>&#x02013;<date when="1895">95</date>; <ref target="undated-letters/http://www.oxforddnb.com/view/article/3732"><hi rend="italic">ODNB</hi></ref>), politician.</sourceNote>
+    <head>
+        <person type="sender">TC</person> TO <person type="addressee">THOMAS CARLYLE</person>
+    </head>
+<docBody>
+        <p><hi rend="italic">Euge</hi>!<note n="1">Lat. for &#x0201C;Bravo.&#x0201D;</note> Same style of thing as the former.&#x02019; If Bruce c<hi rend="italic">d</hi> only be awake to his own interest and his Country’s!&#x02014; &#x02014;</p>
+         <p><closer><signed><name>T. C.</name></signed></closer> <ps>(Tuesday)</ps></p>
+   </docBody>
+</div3>
+
+<div3 type="letter">
+    <bibl n="011" xml:id="lt-nd-TC-JMC-01">
+        <docDate type="undated">Undated</docDate>
+        <idno type="firstline">&#x0201C;We cannot come to-morrow but there will another day arrive&#x0201D;</idno>
+        <docAuthor>
+            <name type="first">Thomas</name>
+            <name type="last">Carlyle</name>
+        </docAuthor>
+        <correspAction type="received">
+            <name type="first">Julia Margaret</name>
+            <name type="last">Cameron</name>
+        </correspAction>>
+                    
+        <person type="sender">TC</person>
+                    <person type="addressee">[JULIA MARGARET CAMERON]</person>
+    </bibl>
+                
+    <sourceNote>TC-[JMC], <date when="undated" notAfter="1866">n.d. [before 1867]</date> Source: Maggs Brothers Catalogue, n.d., advertising the sale of a first edition of <hi rend="italic">The French Revolution</hi> (<date when="1837">1837</date>) with a letter inserted. Although the catalog identifies the recipient as Charles Hay Cameron (<date when="1795">1795</date>&#x02013;<date when="1880">1880</date>; <ref target="undated-letters/http://www.oxforddnb.com/view/article/4437"><hi rend="italic">ODNB</hi></ref>), jurist, it is much more likely that the letter was sent to his wife, the photographer Julia Margaret Cameron, b. Pattle (1815&#x02013;79; <ref target="undated-letters/http://www.oxforddnb.com/view/article/4449"><hi rend="italic">ODNB</hi></ref>); see <ref target="volume-26/lt-18511114-TC-LA-01">TC to LA, <date when="1851-11-14">14 Nov. 1851</date></ref>.</sourceNote>
+    <head>
+        <person type="sender">TC</person> TO <person type="addressee">[JULIA MARGARET CAMERON]</person>
+    </head>
+    <docBody>
+        <p>119 <hi rend="bold">CARLYLE</hi> (Thos.). <hi rend="bold">The French Revolution:</hi> a History. F<hi rend="small-caps">irst</hi> Edition. 3 vols., post 8vo, <hi rend="italic">half calf gilt, s.e. London</hi>, <date when="1837">1837</date>.</p>
+        <p>A fine copy, with all the half titles. Inserted is an Autograph Letter, 2 pp., signed by the author, to Mr. Cameron:&#x02014;&#x0201C; &#x02026; We cannot come to-morrow but there will another day arrive (other days, with sun in them, and a studio nearer hand, and you shall have a stroke at my face if you persist in wishing it.<note n="1">Cameron took TC&#x02019;s photograph in <date when="1867-06">early June 1867</date>, and TC described his face as &#x0201C;terrifically ugly and woe-begone&#x0201D;; see <ref target="volume-44/lt-18670609-TC-JMC-01">TC to JMC, <date when="1867-06-09">9 June 1867</date></ref>.</note> Depend upon that, and let us (as the Latins say) &#x02018;hasten slowly.&#x02019;&#x0201D;<note n="2">The Lat. phrase is &#x0201C;Festina lente.&#x0201D;</note></p>
+   </docBody>
+</div3>  
+
+<div3 type="letter">
+    <bibl n="012" xml:id="lt-nd-TC-JAC-01">
+        <docDate type="undated">Undated</docDate>
+        <idno type="firstline">&#x0201C;You probably got my letter this morning in your way to Ecclefechan Station?&#x0201D;</idno>
+        <docAuthor>
+            <name type="first">Thomas</name>
+            <name type="last">Carlyle</name>
+        </docAuthor>
+                    <correspAction type="received">
+            <name type="first">John Aitken</name>
+            <name type="last">Carlyle</name>
+        </correspAction>>
+        
+        <person type="sender">TC</person>
+        <person type="addressee">JOHN AITKEN CARLYLE</person>
+    </bibl>
+    
+    <sourceNote>TC-JAC, <date when="undated" notBefore="1842">n.d. [1842 or after].</date> MS: Hornel Collection, #22, Broughton House, Kirkcudbright. Hitherto unpbd.</sourceNote>
+    <head>
+        <person type="sender">TC</person> TO <person type="addressee">JOHN AITKEN CARLYLE</person>
+    </head>
+    <docBody>
+        <p>Dear Brother,&#x02014; You probably got my letter this morning in your way to Ecclefechan Station?</p>
+        <p>I only wish to say that, if you find no bed at your old Lodgings, of course there is a bed for you at your Brother&#x02019;s house,&#x02014;under the old (saddish) conditions! Your welcome, from me, so long as I have a house in this world, is always sure.</p>
+            <closer><salute>Your ever affect<hi rend="italic">e</hi></salute>
+            <signed>T. Carlyle</signed></closer>
+        <ps>I write this at Bath House,<note n="1">The London home of Lord and Lady Ashburton. TC was not a frequent guest there <date notBefore="1842">until 1842</date>.</note> in the utmost haste.<lb/>
+                Tuesday, <time when-iso="16:30:00">4&#x000BD; p.m.</time></ps>
+    </docBody>
+</div3>
+            
+<div3 type="letter">
+    <bibl n="013" xml:id="lt-nd-TC-CAHC-01">
+        <docDate type="undated">Undated</docDate>
+        <idno type="firstline">&#x0201C;I find I shall need 8 copies of that Book&#x0201D;</idno>
+        <docAuthor>
+            <name type="first">Thomas</name>
+            <name type="last">Carlyle</name>
+        </docAuthor>
+        <correspAction type="received">
+            <name type="first">Chapman and Hall&#x02019;s Clerk</name>
+            <name type="last"></name>
+        </correspAction>>
+                    
+        <person type="sender">TC</person>
+        <person type="addressee">[CHAPMAN AND HALL&#x02019;S CLERK]</person>
+    </bibl>
+                
+    <sourceNote>TC-[CAHC], <date when="undated" notAfter="1870-05">n.d. [before June 1870]</date>. MS: Hornel Collection, #22, Broughton House, Kirkcudbright. Hitherto unpbd.</sourceNote>
+    <head>
+        <person type="sender">TC</person> TO <person type="addressee">[CHAPMAN AND HALL&#x02019;S CLERK]</person>
+    </head>
+    <docBody>
+        <dateline><place>Chelsea</place>, Tuesday</dateline>
+        <p>Dear Sir,</p>
+            <p>I find I shall still need 8 copies of that Book: will you have the goodness to send them to me as soon as possible.</p>
+        <p>I hope Forster and Dickens<note n="1">John Forster (<date when="1812">1812</date>&#x02013;<date when="1876">76</date>; <ref target="undated-letters/http://www.oxforddnb.com/view/article/9911"><hi rend="italic">ODNB</hi></ref>) and Charles Dickens (<date when="1812">1812</date>&#x02013;<date when="1870">70</date>; <ref target="undated-letters/http://www.oxforddnb.com/view/article/7599"><hi rend="italic">ODNB</hi></ref>.</note> were naturally each supplied with a copy: if not, pray let the omission be straightway rectified;&#x02014;or if it be not yet too late, I could write my name on each of the two copies if I had them here.</p>
+            <closer><salute>In haste<lb/>
+            Yours always truly</salute></closer>
+            <signed>T. Carlyle</signed>
+    </docBody>
+</div3>
+            
+<div3 type="letter">
+    <bibl n="014" xml:id="lt-nd-TC-CAHC-02">
+        <docDate type="undated">Undated</docDate>
+        <idno type="firstline">&#x0201C;This man &#x02018;Henry Hudson&#x02019; seems to be <hi rend="italic">mad</hi>&#x0201D;</idno>
+        <docAuthor>
+            <name type="first">Thomas</name>
+            <name type="last">Carlyle</name>
+        </docAuthor>
+        <correspAction type="received">
+            <name type="first">Chapman and Hall&#x02019;s Clerk</name>
+            <name type="last"></name>
+        </correspAction>>
+                    
+        <person type="sender">TC</person>
+        <person type="addressee">CHAPMAN AND HALL&#x02019;S CLERK</person>
+    </bibl>
+    
+    <sourceNote>TC-[CAHC], <date when="--07-27">27 July, n.y.</date>. MS: Strouse. Hitherto unpbd.</sourceNote>
+    <head>
+        <person type="sender">TC</person> TO <person type="addressee">CHAPMAN AND HALL&#x02019;S CLERK</person>
+    </head>
+    <docBody>
+        <dateline><place>Chelsea</place>, <date when="--07-27">27 July</date></dateline>
+        <p>This man &#x02018;Henry Hudson&#x02019;<note n="1">Perhaps the same person mentioned in <ref target="volume-41/lt-18650319-JWC-JBUL-01">JWC to JBUL, <date when="1865-03-19">19 March 1865</date></ref>, and <ref target="volume-42/lt-18650713-TC-EWA-01">TC to EWA, 13 July 1865</ref>.</note> seems to be mad: keep that second Note of his as a specimen, and refuse any other that may come in the same hand</p>
+        <p>To Mr Chapman&#x02019;s Clerk</p>
+ </docBody>
+</div3>
+            
+            
+<div3 type="letter">
+    <bibl n="015" xml:id="lt-nd-TC-DCO-01">
+        <docDate type="undated">Undated</docDate>
+        <idno type="firstline">&#x0201C;Much to my regret I must not think of coming!&#x0201D;</idno>
+        <docAuthor>
+            <name type="first">Thomas</name>
+            <name type="last">Carlyle</name>
+        </docAuthor>
+        <correspAction type="received">
+            <name type="first">Derwent</name>
+            <name type="last">Coleridge</name>
+        </correspAction>>
+        
+        <person type="sender">TC</person>
+        <person type="addressee">DERWENT COLERIDGE</person>
+    </bibl>
+    
+    <sourceNote>TC-DCO, <date when="undated" notAfter="1863">n.d. [before 1864]</date>. MS: NLS Acc. 9655. Derwent Coleridge (<date when="1800">1800</date>&#x02013;<date when="1883">1883</date>; <ref target="undated-letters/http://www.oxforddnb.com/view/article/5879"><hi rend="italic">ODNB</hi></ref>), writer and educationist, principal of St. Mark&#x02019;s College, Chelsea (<date when="1841">1841</date>&#x02013;<date when="1864">64</date>). The son of the poet Samuel Taylor Coleridge (<date when="1772">1772</date>&#x02013;<date when="1834">1834</date>; <ref target="undated-letters/http://www.oxforddnb.com/view/article/5888"><hi rend="italic">ODNB</hi></ref>), he m., <date when="1827-12-06">6 Dec. 1827</date>, Mary Simpson Pridham (<date when="1807">1807</date>&#x02013;<date when="1887">87</date>). The response to is invitation was probably written before <date when="1864">1864</date>, when Coleridge became rector at Hanwell, Middlesex. 
+    </sourceNote>
+    <head>
+        <person type="sender">TC</person> TO <person type="addressee">DERWENT COLERIDGE</person>
+    </head>
+    <docBody>
+        <dateline><place>Chelsea</place>, Tuesday Ev<hi rend="italic">g</hi></dateline>
+        <p>My Dear Sir,</p>
+        <p>Much to my regret I must not think of coming! I am verging towards the end of a most horrible Task (scribble-scribbling) and for these many weeks have had to deny myself all cheerful meeting of symposial friends,&#x02014;often, one might say, all paths of articulate-speaking men! In a month or less I hope to be at large again, and see you all.</p>
+        <closer><salute>With very kind regards to Mrs. Coleridge,<lb/>
+        Yours always truly</salute></closer>
+        <signed>T. Carlyle</signed>
+    </docBody>
+</div3>
+
+</front>
+</text>
+</TEI.2>

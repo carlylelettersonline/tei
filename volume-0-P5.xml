@@ -250,7 +250,7 @@
     
     <sourceNote>TC-LLA, <date when="undated">n.d.</date> MS: NLS Acc. 11388. Hitherto unpbd. K. J. Fielding acquired the copy of the text used here from Virginia Surtees and sent it to the Duke Letters Office in <date when="1981-10">October 1981</date>. On the typescript an editor posits &#x0201C;<date when="--11">November</date>?&#x0201D;</sourceNote>
     <head>
-        <person type="sender">TC</person> TO <person type="addressee">HARRIET LADY ASHBURTON</person>
+        <person type="sender">TC</person> TO <person type="addressee">LOUISA LADY ASHBURTON</person>
     </head>
     <docBody>
         <p>You are the Queen of Women! Magnanimous, patient, gentle, brave and beautiful, beyond the Daughters of Eve. Oh, if I could fly away into Heaven with you,&#x02014;would I!&#x02014; The thought of you gilds all darknesses in my existence; makes wretched London fog itself into clouds of red and gold. <closer><salute>Thanks, thanks, dear one.</salute></closer></p>
@@ -278,7 +278,7 @@
     
     <sourceNote>TC-LLA, <date when="undated">n.d.</date> MS: NLS Acc. 11388. Hitherto unpbd.</sourceNote>
     <head>
-        <person type="sender">TC</person> TO <person type="addressee">HARRIET LADY ASHBURTON</person>
+        <person type="sender">TC</person> TO <person type="addressee">LOUISA LADY ASHBURTON</person>
     </head>
     <docBody>
         <dateline><place>Chelsea</place>, Monday&#x02014;</dateline>
@@ -332,12 +332,12 @@
     </correspAction>>
             
     <person type="sender">TC</person>
-    <person type="addressee">W. H. Brookfield</person>
+    <person type="addressee">W. H. BROOKFIELD</person>
 </bibl>
         
    <sourceNote>TC-WHB, <date when="undated">n.d.</date> MS: Gordon N. Ray. Hitherto unpbd.</sourceNote>
         <head>
-            <person type="sender">TC</person> TO <person type="addressee">W. H. Brookfield</person>
+            <person type="sender">TC</person> TO <person type="addressee">W. H. BROOKFIELD</person>
         </head>
 <docBody>
     <p>Dear Brookfield,&#x02014; I was nearly killed last night: if I dine <hi rend="italic">again</hi> without pause&#x02014; Good Heavens!</p>

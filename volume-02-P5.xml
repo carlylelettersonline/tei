@@ -4821,7 +4821,9 @@ Ecclefechan&#x2014;. PM: <date when="1823-05-09">MAY 9 1823</date>. MS: NLS, 522
         </bibl>
         
         <sourceNote>TC-DH, <date when="1823-08-25">25 Aug. 1823</date>. Addr: Brunswick-Street, Glasgow. MS: NLS Acc. 9654. Hitherto unpbd. David Hope (d. <date when="1857">1857</date>), Glasgow merchant and a friend of TC&#x02019;s since <date when="1820">1820</date>; see Carlyle, <hi rend="italic">Reminiscences</hi> 248, and <ref target="volume-01/lt-18201019-TC-WG-01">TC to WG, <date when="1820-10-19">19 Oct. 1820</date></ref>. This letter was found too late for publication in the <hi rend="italic">CL</hi> and has been placed in its proper chronological location.<!-- inserted in CLO, vol. 2, 19 Dec. 2024 --></sourceNote>
-        
+        <head>
+            <person type="sender">TC</person> TO <person type="addressee">DAVID HOPE</person>
+        </head>   
         <docBody>
             <dateline>Kinnaird House, <date when="1823-08-25">25 August, 1823</date></dateline>
             <salute>My dear Sir,</salute>

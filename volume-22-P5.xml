@@ -4977,6 +4977,35 @@ TC received other letters relative to the Squire papers, probably few of which s
 <closer><salute>I am always / Very truly yours</salute></closer>
 <name>T. Carlyle</name>
 </docBody></div3>
+    
+    <!-- TC to Lord Mahon, 7 March 1848 -->
+    
+    <div3 type="letter">
+        <bibl n="1" xml:id="lt-18480307-TC-LM-02">
+            <docDate value="1848-03-07">7 March 1848</docDate>
+            <idno type="firstpage">new1</idno>
+            <idno type="lastpage">new1</idno>
+            <docAuthor>
+                <name type="first">Thomas</name>
+                <name type="last">Carlyle</name>
+            </docAuthor>
+            <person type="sender">TC</person>
+            <person type="addressee">LORD MAHON</person>
+        </bibl>
+        <sourceNote>TC-LM, <date when="1848-03-07">7 March</date>. MS: From the collection of Michael Maltese. This letter, found too late for publication in the <hi rend="italic">CL</hi>, and kindly shared with the editors by Mr. Maltese, has been placed in the <hi rend="italic">CLO</hi> at its appropriate chronological location. TC had written to Lord Mahon earlier in the day to accept his invitation to breakfast on <date when="1848-03-10">10 May 1848</date>; see <ref target="volume-22/lt-18480307-TC-LM-01">TC to LM, <date when="1848-03-07">7 March 1848</date></ref>.</sourceNote>
+        <head>
+            <person type="sender"><pb id="pg-50-01" n="50:01"/>TC</person> TO <person type="addressee">LORD MAHON</person>
+        </head>
+        
+        <docBody>
+            <dateline><place>Chelsea</place>, <date when="1848-03-07">7 March 1848</date>&#x02014;</dateline>
+            <salute>Dear Lord Mahon,</salute>
+            <p>Emerson, our New-England friend, is come to Town:<note n="1" noteref="a">Ralph Waldo Emerson was in London from <date when="1848-03-05">ca. 5 March</date> until <date when="1848-05-04">ca. 4  May 1848</date>, when he traveled to revolutionary Paris. He did not join TC at Lord Mahon&#x00027;s breakfast. In <ref target="volume-22/lt-18480310-TC-RWE-01">TC to RWE, [<date when="1848-03-10">10 March</date>]</ref>, TC reminds his friend of dinner plans with the Carlyles&#x00027; at Cheyne Row on that Sunday, <date when="1848-03-12">12 March</date>.</note> will there be room if I bring him with me on Friday morning? He is a very tame lion (I can engage), and will roar only like a sucking dove.<note n="2" noteref="b">Cf. <hi rend="italic">A Midsummer Night's Dream</hi> 1.2.68&#x02013;80.</note> But pray say No truly, if no.</p>
+            <closer><salute>Yours always truly</salute>
+                <br/><signed><name>T. Carlyle</name></signed></closer>
+        </docBody>
+    </div3>
+    
 
 <div3 type="letter"><bibl xml:id="lt-18480307-JWC-MR-01">
 <docDate value="1848-03-07"><pb id="pg-22-266" n="22:266"/>7 March 1848</docDate>

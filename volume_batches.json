@@ -1,0 +1,42 @@
+[
+    {
+        "title": "The Carlyles in Scotland and in London",
+        "date_range": "1812 to 1840",
+        "volumes": [
+            1,
+            12
+        ],
+        "selected_contents": "Ecclefechan / School Days / Edward Irving / Teacher and Tutor / Edinburgh / Courtship and Marriage / Craigenputtoch / Ralph Waldo Emerson / London / Leigh Hunt / John Stuart Mill / John Sterling / Robert Browning / Alfred Tennyson / Erasmus Darwin / Harriet Martineau / John Forster / Lectures on Literature, Revolution, and Heroes / Publication of Elements of Geometry (1822), <i>Wilhelm Meister</i> (1824), <i>Life of Schiller</i> (1825), <i>German Romance</i> (1827), \u201cBurns\u201d (1828), \u201cSigns of the Times\u201d (1829), \u201cOn History\u201d (1830), \u201cCharacteristics\u201d (1831), <i>Sartor Resartus</i> (1833\u201334), <i>French Revolution</i> (1837), <i>Essays</i> (1838), and <i>Chartism</i> (1839)",
+        "order": 1
+    },
+    {
+        "title": "Success and Security",
+        "date_range": "1841 to 1850",
+        "volumes": [
+            13,
+            25
+        ],
+        "selected_contents": "Samuel Laurence\u2019s Portraits / Geraldine Jewsbury / Death of JWC\u2019s Mother / Death of Sterling / William Makepeace Thackeray / Corn Laws / Charles Gavan Duffy / Journeys to Ireland and to Germany / International Copyright Law / John Ruskin / Lord and Lady Ashburton / Edward FitzGerald / Squire forgeries / R. M. Milnes / Giuseppe Mazzini / Emerson\u2019s second visit / Joseph Neuberg / Louis Blanc / JWC\u2019s screen / Margaret Fuller / John Tyndall / Publication of <i>Heroes and Hero-Worship</i> (1841), <i>Past and Present</i> (1843), <i>Oliver Cromwell\u2019s Letters and Speeches</i> (1845), \u201cThe Negro Question\u201d (1849), and <i>Latter-Day Pamphlets</i> (1850)",
+        "order": 2
+    },
+    {
+        "title": "The \u201cValley of the Shadow of Frederick\u201d",
+        "date_range": "1851 to November 1862",
+        "volumes": [
+            26,
+            38
+        ],
+        "selected_contents": "Woolner\u2019s Medallion / Crystal Palace / The Grange / Death of Wellington / Journeys to Paris and Germany / Sickness and Health / Garrett Study / John Ricardo / Holidays in Scotland / Death of TC\u2019s Mother / American Investments / Crimean War / JWC\u2019s \u201cBUDGET of a Femme Incomprise\u201d / \u201cThe Guises\u201d / Alexander and Anne Gilchrist / Death of Lady Ashburton / Indian Mutiny / Tait\u2019s A Chelsea Interior / Louisa Lady Ashburton / George Eliot / Ford Madox Ford\u2019s <i>Work</i> / Death of Nero / Charlotte Cushman / American Civil War / Publication of <i>Life of Sterling</i> (1851), <i>Collected Works</i> (1857\u201358), and <i>Frederick</i>, Volumes 1\u20133 (1858, 1862)",
+        "order": 3
+    },
+    {
+        "title": "\u201cWe shall go to them\u201d",
+        "date_range": "December 1862 to February 1881",
+        "volumes": [
+            39,
+            50
+        ],
+        "selected_contents": "Readings by Dickens / Moncure Conway / JWC\u2019s Failing Health / Death of Thackeray / \u201cValley of the shadow of blue pill\u201d / Lord Houghton / Margaret Oliphant / Death of Lord Ashburton / \u201cIlias (Americana) in Nuce\u201d (1863) and Frederick, Volumes 4\u20136 (1864, 1865) / Death of JWC, 1866 / Eyre Defence Committee / Visit to Menton / Quarrels with Ruskin / Photos by Cameron / Shooting Niagara (1867) / the Watts portrait / the Library Edition / Mary Carlyle Aitken / Holidays with Lady Ashburton / Woolner\u2019s plaster of TC\u2019s hands / Cromwell\u2019s death mask / Death of Dickens / the Franco-Prussian War / Farewell to Mazzini / John Ruskin / Emerson\u2019s Last Visit",
+        "order": 4
+    }
+]

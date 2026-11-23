@@ -48,5 +48,15 @@
         ],
         "selected_contents": "This is a test / This content should be replaced / this is just placeholder / this is a test",
         "order": 5
+    },
+    {
+        "title": "Test Volume for Recently Added Letters",
+        "date_range": "Recently Added",
+        "volumes": [
+            1,
+            25
+        ],
+        "selected_contents": "This is a test / This content should be replaced / this is just placeholder / this is a test",
+        "order": 6
     }
 ]
